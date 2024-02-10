@@ -16,3 +16,6 @@ This is done with the command `/rg claim <name>`, and that will be it already!
 While standing inside your claim, you can use `/rg info` to show information about it.
 The menu in chat can be clicked, you can also explore the `[Flags]` menu and maybe set a `teleport` location, which players can use to teleport to your claim with `/rg tp <name>`
 You are also able to edit Members of the claim here to give access to your friends.
+
+## Larger Claims
+If the claim limit does not suffice your building plans, you can always ask staff to claim a larger area for you.

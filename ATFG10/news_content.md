@@ -1,11 +1,21 @@
-### Welcome to All The Forge v10
-
+# Claiming Land on the official All the Forge 10 Server
 ---
+You can claim up to 300k blocks volume on the Server.
+This claiming considers X and Z locations, but also Y (height).
 
-We're excited to have you on board as part of our community. Whether you're a returning player or just getting started, there's something for everyone in this latest version.
+## How To
+### 1. Select an area
+Select your area with the commands `//pos1` and `//pos2`.
+Remember to consider height! Your roof or basement may not get included in the claim if you only claim from the normal ground.
+### 2. Choose a name for your area
+Names must be unique between all players, and you might want to consider something other than "home" since you'll be able to set a warp location for your home.
+### 3. Claim the area
+This is done with the command `/rg claim <name>`, and that will be it already!
 
-If you find yourself in need of assistance or have any questions about the modpack, don't hesitate to reach out. Our dedicated support team is here to help you every step of the way.
+## Viewing and Modifying claim settings
+While standing inside your claim, you can use `/rg info` to show information about it.
+The menu in chat can be clicked, you can also explore the `[Flags]` menu and maybe set a `teleport` location, which players can use to teleport to your claim with `/rg tp <name>`
+You are also able to edit Members of the claim here to give access to your friends.
 
-To get support, simply hop over to our [Discord](https://discord.com/channels/495506209881849856/1047177001674485850) server and open a support thread. Whether it's troubleshooting, suggestions, or just to chat with fellow players, our Discord community is the perfect place to connect with others and get the help you need.
-
-Once again, welcome to All The Forge v10. We hope you enjoy your experience and look forward to seeing you in-game!
+## Larger Claims
+If the claim limit does not suffice your building plans, you can always ask staff to claim a larger area for you.

@@ -1,5 +1,7 @@
 ### Claiming Land on the official Server
+
 ---
+
 You can claim up to 300k blocks volume on the Server.
 This claiming considers X and Z locations, but also Y (height).
 

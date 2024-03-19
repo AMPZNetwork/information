@@ -6,4 +6,4 @@ Address: `atfg.ampznetwork.com`
 ### All the Fabric
 Address: `atfb.ampznetwork.com`
 ### Fossilized
-Address: `fossilized.ampznetwork.com`
+Address: `fossil.ampznetwork.com`

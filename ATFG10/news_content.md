@@ -1,9 +1,6 @@
-### Final Call for Suggestions
+We've just rolled out the latest patch, elevating the modpack to version 10.8. This update includes numerous fixes and mod enhancements. Please note that it's currently pending approval on CurseForge.
 
----
+To explore the full list of changes, visit [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG10.md).
 
-This is your last opportunity to contribute any new suggestions for potential inclusion in ATFG10, as patch 10.8 is scheduled for release by the end of this week (24th March 2024). 
+Interested in joining our Discord community? Simply [click here](https://discord.ampznetwork.com) to become a part of it.
 
-If you have any suggestions, please post them on our [forums](https://ampznetwork.com/forum/suggestions/4).
-
-Looking for our Discord server? [Click here](https://discord.ampznetwork.com) to join.

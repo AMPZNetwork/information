@@ -1,6 +1,6 @@
-We've just rolled out the latest patch, elevating the modpack to version 10.8. This update includes numerous fixes and mod enhancements. Please note that the new server files are currently pending approval on CurseForge.
+We've just rolled out a hotfix to resolve the problems regarding crafting certain vanilla items like planks. It's strongly advised to update at your earliest convenience.
 
-To explore the full list of changes, visit [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG10.md).
+For a detailed rundown of previous changes, you can check out the list [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG10.md#version-108-march-19th-2024).
 
 Interested in joining our Discord community? Simply [click here](https://discord.ampznetwork.com) to become a part of it.
 

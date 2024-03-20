@@ -1,2 +1,2 @@
-## Server Rollback Notification
+# Server Rollback Notice
 ---

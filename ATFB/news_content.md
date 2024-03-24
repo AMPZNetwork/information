@@ -1,5 +1,10 @@
-If you find yourself in need of assistance or have any questions about the modpack, don't hesitate to reach out. Our dedicated support team is here to help you every step of the way.
+## Server Downtime
+---
 
-To get support, simply hop over to our [Discord](https://discord.com/channels/495506209881849856/1047177001674485850) server and open a support thread. Whether it's troubleshooting, suggestions, or just to chat with fellow players, our Discord community is the perfect place to connect with others and get the help you need.
+We regret to inform you that we are currently experiencing a significant server downtime for reasons yet to be determined.
 
-Once again, welcome to All The Fabric v5. We hope you enjoy your experience and look forward to seeing you in-game!
+**Affected servers include all the Forge and all the Fabric official servers.**
+Rest assured, our team is actively investigating the issue and working to resolve it promptly.
+We apologize for any inconvenience caused.
+
+You can track the ongoing issue on our [status page](https://status.ampznetwork.com/).

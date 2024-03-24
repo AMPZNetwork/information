@@ -1,3 +1,7 @@
-If you find yourself in need of assistance or have any questions about the modpack, don't hesitate to reach out. Our support team is here to help you every step of the way.
+We regret to inform you that we are currently experiencing a significant server downtime for reasons yet to be determined.
 
-To get support, simply hop over to our [Discord](https://discord.ampznetwork.com) server and open a support thread.
+**Affected servers include all the Forge and all the Fabric official servers.**
+Rest assured, our team is actively investigating the issue and working to resolve it promptly.
+We apologize for any inconvenience caused.
+
+You can track the ongoing issue on our [status page](https://status.ampznetwork.com/).

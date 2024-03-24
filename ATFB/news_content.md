@@ -1,4 +1,4 @@
-## Server Downtime
+# Server Downtime
 ---
 
 We regret to inform you that we are currently experiencing a significant server downtime for reasons yet to be determined.

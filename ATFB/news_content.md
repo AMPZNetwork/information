@@ -1,10 +1,7 @@
-# Server Downtime
+# Server Downtime Resolved
 ---
 
-We regret to inform you that we are currently experiencing a significant server downtime for reasons yet to be determined.
+The ATFG and ATFB Servers are now up and running smoothly.
 
-**Affected servers include all the Forge and all the Fabric official servers.**
-Rest assured, our team is actively investigating the issue and working to resolve it promptly.
-We apologize for any inconvenience caused.
+If you find any missing items following the downtime, don't hesitate to reach out to our staff on our [Discord](https://discord.ampznetwork.com/) support channel for assistance.
 
-You can track the ongoing issue on our [status page](https://status.ampznetwork.com/).

@@ -1,3 +1,3 @@
-The ATFG and ATFB Servers are now up and running smoothly. During the downtime, the All The Forge Server experienced some configuration changes due to its dissatisfaction but we managed to persuade it that we're still operating in the familiar ATFG map. Consequently, everything should now be operating normally.
+If you find yourself in need of assistance or have any questions about the modpack, don't hesitate to reach out. Our support team is here to help you every step of the way.
 
-If you find any missing items following the downtime, don't hesitate to reach out to our staff on our [Discord](https://discord.ampznetwork.com/) support channel for assistance.
+To get support, simply hop over to our [Discord](https://discord.ampznetwork.com) server and open a support thread.

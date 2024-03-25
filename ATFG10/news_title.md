@@ -1,2 +1,2 @@
-# Server Downtime has resolved
+# Server Downtime Resolved
 ---

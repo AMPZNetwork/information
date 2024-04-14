@@ -1,5 +1,5 @@
-We've identified a server-side crash affecting the Industrial ReZolution Modular Workbench and are currently preparing a patch to fix this issue. Until the patch is released, we advise refraining from using this block. 
+We've just released a hotfix to resolve the issue with Industrial ReZolution Modular Workbench crashing server-side. We highly recommend all users to update to this version as soon as possible.
 
-To review the changes made in the latest version, you can visit [this link](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB5.md#all-the-fabric-5--patch-notes).
+To see the detailed changes in this latest version, check out [this link](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB5.md#all-the-fabric-5--patch-notes).
 
-Would you like to join our Discord community? Click [here](https://discord.ampznetwork.com) to become a member.
+Interested in joining our Discord community? Click [here](https://discord.ampznetwork.com) to become a member.

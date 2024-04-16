@@ -1,5 +1,3 @@
-We've just released a hotfix to resolve the issue with Industrial ReZolution Modular Workbench crashing server-side. We highly recommend all users to update to this version as soon as possible.
+If you find yourself in need of assistance or have any questions about the modpack, don't hesitate to reach out. Our dedicated support team is here to help you every step of the way.
 
-To see the detailed changes in this latest version, check out [this link](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB5.md#all-the-fabric-5--patch-notes).
-
-Interested in joining our Discord community? Click [here](https://discord.ampznetwork.com) to become a member.
+To get support, simply hop over to our [Discord](https://discord.com/channels/495506209881849856/1047177001674485850) server and open a support thread. Whether it's troubleshooting, or just to chat with fellow players, our Discord community is the perfect place to connect with others and get the help you need.

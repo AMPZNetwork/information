@@ -1,2 +1,2 @@
-# RECENT UPDATES/NEWS
+# What's New?
 ---

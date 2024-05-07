@@ -1,3 +1,5 @@
-If you find yourself in need of assistance or have any questions about the modpack, don't hesitate to reach out. Our dedicated support team is here to help you every step of the way.
+### Hotfix Patch 10.9.1 Released
+---
+We've rolled out a hotfix patch (version 10.9.1) to tackle server-side problems with Rought Enough Items by reverting back to Just Enough Items. Additionally, we've resolved an issue where users' custom server lists were being reset with each pack update.
 
-To get support, simply hop over to our [Discord](https://discord.com/channels/495506209881849856/1047177001674485850) server and open a support thread. Whether it's troubleshooting, or just to chat with fellow players, our Discord community is the perfect place to connect with others and get the help you need.
+If you haven't already checked out the changes in patch 10.9, you can find them [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG10.md#version-109-may-6th-2024).

@@ -1,3 +1,3 @@
-The official server for All The Forge will be temporarily offline as we migrate all server data to a new dedicated server. This downtime is essential to resolve the recurring issues we've encountered recently. Your patience and cooperation during this transition period are greatly appreciated.
+The All The Forge official server is now fully operational again. We appreciate your patience and cooperation during this time.
 
-Stay informed about updates by joining our [Discord](https://discord.ampznetwork.com) server or by checking our [status](https://status.ampznetwork.com/) page.
+Did you know you can access a live map of our official server directly in your web browser? Simply visit https://map.atfg.ampznetwork.com/ to explore!

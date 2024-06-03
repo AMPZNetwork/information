@@ -1,3 +1,5 @@
-If you find yourself in need of assistance or have any questions about the modpack, don't hesitate to reach out. Our dedicated support team is here to help you every step of the way.
+We've just rolled out the latest patch, elevating the modpack to version 5.7.0. This update includes numerous fixes and as well as new mods like Hephaestus (Tinker's Constuct unofficial port), Macaw's mods and more. 
 
-To get support, simply hop over to our [Discord](https://discord.com/channels/495506209881849856/1047177001674485850) server and open a support thread. Whether it's troubleshooting, or just to chat with fellow players, our Discord community is the perfect place to connect with others and get the help you need.
+To explore the full list of changes, visit [here](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB5.md#version-570).
+
+Interested in joining our Discord community? Simply [click here](https://discord.ampznetwork.com) to become a part of it.

@@ -1,3 +1,3 @@
-We've just rolled out a new patch, bumping up the pack version to 10.10. This update addresses known issues and includes a user-suggested mod. Be sure to check out the [changelog](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG10.md#version-1010-june-15th-2024).
+Development for the next version of All The Forge has begun, and now is your opportunity to have your say in what mods or datwpscks should be included. To contribute your suggestions, simply head over to our [suggestions page](https://ampznetwork.com/forum/suggestions/4) and be sure to label your input as `ATFG11` followed by the suggestion.
 
-To get support, simply hop over to our [Discord](https://discord.com/channels/495506209881849856/1047177001674485850) server and open a support thread. Whether it's troubleshooting, or just to chat with fellow players, our Discord community is the perfect place to connect with others and get the help you need.
+Come and join our [Discord](https://discord.ampznetwork.com) server. 

@@ -1,3 +1,3 @@
-We’ve released a new patch, updating the pack to version 5.10.0! This update addresses several known issues and it affects Macaw's south-facing windows due to some code optimizations. For a complete list of changes, check out the [changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB5.md#version-5100).
+We're thrilled to announce that development for the next version of All The Fabric is underway! We invite you to contribute by suggesting mods or datapacks to include. Visit our [suggestions page](https://ampznetwork.com/forum/suggestions/4) and label your input as `ATFB6 mod name` along with your recommendation. Make sure all mods support the NeoForge mod loader.
 
-Don’t forget to join our community on [Discord](https://discord.ampznetwork.com)!
+Join our community on [Discord](https://discord.ampznetwork.com) today!

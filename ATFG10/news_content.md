@@ -1,3 +1,3 @@
-We're thrilled to announce that development for the next version of All The Forge is underway! We invite you to contribute by suggesting mods or datapacks to include. Visit our [suggestions page](https://ampznetwork.com/forum/suggestions/4) and label your input as `ATFG11 mod name` along with your recommendation. Make sure all mods support the NeoForge mod loader.
+We have pushed out a new patch, updating the pack version to 10.13! This update fixes packet disconnect issue as well as some other issues. For full details, check out the [changelog](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG10.md#version-1013-september-19th-2024).
 
 Join our community on [Discord](https://discord.ampznetwork.com) today!

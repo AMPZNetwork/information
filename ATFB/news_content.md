@@ -1,3 +1,1 @@
-We're thrilled to announce that development for the next version of All The Fabric is underway! We invite you to contribute by suggesting mods or datapacks to include. Visit our [suggestions page](https://forums.ampznetwork.com/suggestions) and label your input as `ATFB6 mod name` along with your recommendation. Make sure all mods support the NeoForge mod loader.
-
-Join our community on [Discord](https://discord.ampznetwork.com) today!
+We are aware of an issue with Roughly Enough Items where only a handful of items are showing up in-game. We have identified that this issue is due to the version of REI shipped with v5.10.0 and will push a .1 update out as soon as possible to fix this. In the meantime, you can manually update the mod to version v12.1.7.80 from [Modrinth](https://modrinth.com/mod/rei/version/Lg9Hl5NP).

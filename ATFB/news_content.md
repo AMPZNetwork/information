@@ -1,5 +1,3 @@
-We are aware of an issue with Roughly Enough Items where only a handful of items are showing up in-game. This issue has been identified as being caused by the version of REI shipped with v5.10.0. We will release a new build, v5.11.0, as soon as possible to fix this.
+We have just released a new patch, version 5.11.0. This addresses the issue with REI not showing all items, fixes some known issues, and adds user-suggested mods. You can read the changelog [here](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB5.md#version-5110).
 
-In the meantime, you can manually update the mod to version v12.1.7.80 from [Modrinth](https://modrinth.com/mod/rei/version/Lg9Hl5NP).
-
-Additionally, we are removing Fabricae Ex Nihilo due to server performance issues that have arisen.
+Join our community on [Discord](https://discord.ampznetwork.com) today!

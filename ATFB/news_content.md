@@ -1,3 +1,3 @@
-We have just released a new patch, version 5.11.0. This addresses the issue with REI not showing all items, fixes some known issues, and adds user-suggested mods. You can read the changelog [here](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB5.md#version-5110).
+We're thrilled to announce that development for the next version of All The Fabric is underway! We invite you to contribute by suggesting mods or datapacks to include. Visit our [suggestions page](https://forums.ampznetwork.com/suggestions/category/3-all-the-fabric/) . Make sure all mods support the Forge mod loader.
 
 Join our community on [Discord](https://discord.ampznetwork.com) today!

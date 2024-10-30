@@ -1,6 +1,3 @@
 ^^^
-
-**Attention**
-We need your help deciding whether to upgrade Kingdoms of the Valley to version 3.0 (Minecraft 1.19.2) or wait for a future update. Please head over to our [Discord](https://discord.com/channels/495506209881849856/495513877103116308/1296215476032110592) server to cast your vote. Voting ends on 19th October 2024!
-
+We plan to release version 3.0 (1.19.2) in November. However, please note that this upgrade will not be compatible with worlds created in 1.18.2 due to the different world generation mod used.
 ^^^

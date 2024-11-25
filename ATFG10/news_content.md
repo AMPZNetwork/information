@@ -1,4 +1,5 @@
-We have pushed out a new patch, updating the pack version to 10.14! This update brings some fixes but mostly updates all mods that need it. For full details, check out the [changelog](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG10.md#version-1014-november-21st-2024).
+We are thrilled to present our brand-new FAQ page, meticulously designed and built from scratch to perfectly complement our main website. Now, finding answers is easier than ever. Take a look and share your thoughts with us!
 
+Read more about it [here](https://forums.ampznetwork.com/post/11-introducing-our-new-home-for-faqs/) and visit it [here](https://ampznetwork.com/faq).
 
 Join our community on [Discord](https://discord.ampznetwork.com) today!

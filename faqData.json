@@ -10,7 +10,7 @@
     },
     {
       "question": "My game is crashing since I've added Optifine?",
-      "answer": "Depending on the modpack you’re using, some of our packs include optimization mods like Sodium. For more details, please refer to the modpack project page where it will outline what mods need to be removed in order to get Optifine working. Alternatively, you can remove Optifine, as it is known to cause issues with other mods due to its closed-source nature."
+      "answer": "Depending on the modpack youâ€™re using, some of our packs include optimization mods like Sodium. For more details, please refer to the modpack project page where it will outline what mods need to be removed in order to get Optifine working. Alternatively, you can remove Optifine, as it is known to cause issues with other mods due to its closed-source nature."
     },
     {
       "question": "What are the system requirements for playing on AMPZ Network?",
@@ -50,7 +50,11 @@
     },
     {
       "question": "How to claim land on our modpacks?",
-      "answer": "Depending on which server of ours you are playing they use differnt methords for example All The Fabric uses a mod called Flan Mod and All The Forge uses Worldguard plugin.<br><br><details><summary>All The Fabric Guide</summary> <iframe width=\"720\" height=\"405\" src=\"https://www.youtube.com/embed/e-DvnXWqzsY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br><br><details><summary>All The Forge Guide</summary> <iframe width=\"720\" height=\"405\" src=\"https://www.youtube.com/embed/kAg5T1MpC1Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br>We trust these guides are helpful to you. Should you need further assistance, please don’t hesitate to contact a member of our staff team they are ready and happy to support you.<br><br>The videos featured in our FAQ, unless otherwise noted, utilize copyright-free music. For more information, please see the [licenses](https://incompetech.com/music/royalty-free/licenses/). Special thanks to fyriandweller for providing the videos."
+      "answer": "Depending on which server of ours you are playing they use differnt methords for example All The Fabric uses a mod called Flan Mod and All The Forge uses Worldguard plugin.<br><br><details><summary>All The Fabric Guide</summary> <iframe width=\"720\" height=\"405\" src=\"https://www.youtube.com/embed/e-DvnXWqzsY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br><br><details><summary>All The Forge Guide</summary> <iframe width=\"720\" height=\"405\" src=\"https://www.youtube.com/embed/kAg5T1MpC1Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br>We trust these guides are helpful to you. Should you need further assistance, please donâ€™t hesitate to contact a member of our staff team they are ready and happy to support you.<br><br>The videos featured in our FAQ, unless otherwise noted, utilize copyright-free music. For more information, please see the [licenses](https://incompetech.com/music/royalty-free/licenses/). Special thanks to fyriandweller for providing the videos."
+    },
+    {
+      "question": "I was punished is there a way to appeal?",
+      "answer": "If you believe you've been unfairly punished on any of our game servers or Discord server, you can appeal the decision by visiting our [appeals page](https://forums.ampznetwork.com/appeal)"
     }
   ]
 }

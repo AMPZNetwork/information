@@ -55,6 +55,10 @@
     {
       "question": "I was punished is there a way to appeal?",
       "answer": "If you believe you've been unfairly punished on any of our game servers or Discord server, you can appeal the decision by visiting our [appeals page](https://forums.ampznetwork.com/appeal)"
+    },
+    {
+      "question": "Why can’t I see or interact with some channels?",
+      "answer": "This might be happening because you don’t have the @modpack Player role. You can obtain this role in the self-roles channel. Alternatively, you may not have accepted our Discord server rules yet. Addressing either of these points should give you access to the other channels."
     }
   ]
 }

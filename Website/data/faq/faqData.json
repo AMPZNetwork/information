@@ -27,6 +27,7 @@
     {
       "question": "Are there any server files for your packs?",
       "answer": "Yes, you can get the latest server files for the modpack by visiting either our [CurseForge](https://www.curseforge.com/members/teamampz/projects) or [Modrinth](https://modrinth.com/organization/ampz-network) pages. On CurseForge, select the modpack you want, choose the desired version, and look under the \"Additional Files\" tab to find the server files."
+      "category": "Modpack"
     },
     {
       "question": "Where do I go for general support?",

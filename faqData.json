@@ -67,6 +67,10 @@
     {
       "question": "How to add custom mods to modpacks ?",
       "answer": "Depending on your launcher, navigate to the installation of the launcher, then to instances and find your desired instance (modpack), drag the mod(s) .jar which you want to install in the /mods directory"
+    },
+    {
+      "question": "I don't see a shaders menu",
+      "answer": "For shaders to work you need to install Sodium/Embeddium and Iris/Oculus depending on if you are running a Fabric or Forge based modpack"
     }
   ]
 }

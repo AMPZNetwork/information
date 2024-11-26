@@ -63,6 +63,10 @@
     {
       "question": "How can my Minecraft username be my Discord nickname on AMPZ Discord server ?",
       "answer": "To achieve this, link your Minecraft account by clicking the Verify button, once you have made an AMPZ account on our forums. Then run the command that is copied to your clipboard on the official server of All The Forge v10, your Minecraft account will be then verified. To link your Discord account, click on Connect, then you shall be prompted an authorisation dialog. After both your Minecraft and Discord accounts are linked, your Discord account on AMPZ Discord server will be given your Minecraft username as a nickname."
+    },
+    {
+      "question": "How to add custom mods to modpacks ?",
+      "answer": "Depending on your launcher, navigate to the installation of the launcher, then to instances and find your desired instance (modpack), drag the mod(s) .jar which you want to install in the /mods directory"
     }
   ]
 }

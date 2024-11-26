@@ -58,7 +58,7 @@
     },
     {
       "question": "Why can’t I see or interact with some channels?",
-      "answer": "This might be happening because you don’t have the @modpack Player role. You can obtain this role in the self-roles channel. Alternatively, you may not have accepted our Discord server rules yet. Addressing either of these points should give you access to the other channels."
+      "answer": "This might be happening because you don’t have the @Modpack User role. You can obtain this role in the self-roles channel. Alternatively, you may not have accepted our Discord server rules yet. Addressing either of these points should give you access to the other channels."
     }
   ]
 }

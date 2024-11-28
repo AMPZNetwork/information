@@ -1,0 +1,27 @@
+[
+  {
+    "uuid": "8bd4ca90-5ea4-4070-90f5-c29585519cf6",
+    "name": "LabsZero",
+    "role": "Founder"
+  },
+  {
+    "uuid": "39e07571-9847-4652-a3d0-d252fa3f137f",
+    "name": "Mooie134",
+    "role": "Manager"
+  },
+  {
+    "uuid": "30c408a8-31df-4c13-bf92-416288300613",
+    "name": "kaleidox",
+    "role": "Lead Developer"
+  },
+  {
+    "uuid": "61443b51-30a5-4811-9b2a-06f3133323b9",
+    "name": "fyriandweller",
+    "role": "Admin"
+  },
+  {
+    "uuid": "edb6e3f2-08f7-4a43-a08d-9a07f95b8e45",
+    "name": "JoeDalton_",
+    "role": "Mod"
+  }
+]

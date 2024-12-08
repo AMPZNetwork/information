@@ -1,5 +1,3 @@
-## A Year-End Message from AMPZ Network
----
 As we wrap up another incredible year, we want to express our heartfelt thanks to every one of you in our community. Whether you’re new here or have been with us for a while, your support means the world to us. Thank you for being a crucial part of our growth and success!
 
 With the holiday season upon us, we wish you all a Merry Christmas and a Happy New Year!

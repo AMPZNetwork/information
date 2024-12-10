@@ -7,3 +7,5 @@ Address: `atfg.ampznetwork.com`
 Address: `atfb.ampznetwork.com`
 ### Fossilized
 Address: `fossil.ampznetwork.com`
+### Vanilla Server
+Address: `play.ampznetwork.com`

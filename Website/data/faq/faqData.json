@@ -26,7 +26,7 @@
     },
     {
       "question": "Are there any server files for your packs?",
-      "answer": "Yes, you can get the latest server files for the modpack by visiting either our [CurseForge](https://www.curseforge.com/members/teamampz/projects) or [Modrinth](https://modrinth.com/organization/ampz-network) pages. On CurseForge, select the modpack you want, choose the desired version, and look under the \"Additional Files\" tab to find the server files."
+      "answer": "Yes, you can get the latest server files for the modpack by visiting either our [CurseForge](https://www.curseforge.com/members/teamampz/projects) page. On CurseForge, select the modpack you want, choose the desired version, and look under the \"Additional Files\" tab to find the server files. For Modrinth please see I use Modrinth where can i get the server files? question."
     },
     {
       "question": "Where do I go for general support?",
@@ -58,7 +58,7 @@
     },
     {
       "question": "Why can’t I see or interact with some channels?",
-      "answer": "This might be happening because you don’t have the @Modpack User role. You can obtain this role in the self-roles channel. Alternatively, you may not have accepted our Discord server rules yet. Addressing either of these points should give you access to the other channels."
+      "answer": "This might be happening because you don’t have the @Modpack role. You can obtain this role in the self-roles channel. Alternatively, you may not have accepted our Discord server rules yet. Addressing either of these points should give you access to the other channels."
     },
     {
       "question": "How can my Minecraft username be my Discord nickname on AMPZ Discord server ?",

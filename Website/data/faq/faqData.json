@@ -61,7 +61,7 @@
       "answer": "This might be happening because you don’t have the @Modpack role. You can obtain this role in the self-roles channel. Alternatively, you may not have accepted our Discord server rules yet. Addressing either of these points should give you access to the other channels."
     },
     {
-      "question": "How can my Minecraft username be my Discord nickname on AMPZ Discord server ?",
+      "question": "How do I make my Discord nickname match my Minecraft username on AMPZ?",
       "answer": "To achieve this, link your Minecraft account by clicking the Verify button, once you have made an AMPZ account on our forums. Then run the command that is copied to your clipboard on the official server of All The Forge v10, your Minecraft account will be then verified. To link your Discord account, click on Connect, then you shall be prompted an authorisation dialog. After both your Minecraft and Discord accounts are linked, your Discord account on AMPZ Discord server will be given your Minecraft username as a nickname."
     },
     {

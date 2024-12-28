@@ -74,7 +74,7 @@
     },
     {
       "question": "How do I install Optifine?",
-      "answer": "Download OptiFine from the [official website](https://optifine.net/downloads), ensure Java is installed, open the OptiFine `.jar` file with Java, extract the mod from the installer to your desktop, and then copy the mod from your desktop to the modpack mod folder. For CurseForge, open the CurseForge app, select your modpack, click on the three dots, choose `Open Folder`, and navigate to the `mods` folder. For ATLauncher, open the ATLauncher app, select your modpack, click `Open Folder,` and navigate to the `mods` folder."
+      "answer": "Download OptiFine from the [official website](https://optifine.net/downloads), ensure Java is installed, open the **OptiFine.jar** file with Java, extract the mod from the installer to your desktop, and then copy the mod from your desktop to the modpack mod folder.<br><br>For CurseForge, open the CurseForge app, select your modpack, click on the three dots, choose `Open Folder`, and navigate to the `mods` folder.<br><br>For ATLauncher, open the ATLauncher app, select your modpack, click `Open Folder,` and navigate to the `mods` folder."
     }
   ]
 }

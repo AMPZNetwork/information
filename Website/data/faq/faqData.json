@@ -11,10 +11,6 @@
     {
       "question": "My game is crashing since I've added Optifine?",
       "answer": "Depending on the modpack you’re using, some of our packs include optimization mods like Sodium. For more details, please refer to the modpack project page where it will outline what mods need to be removed in order to get Optifine working. Alternatively, you can remove Optifine, as it is known to cause issues with other mods due to its closed-source nature."
-    },
-    {
-      "question": "How do I install Optifine?",
-      "answer": "Download OptiFine from the [official website](https://optifine.net/downloads), ensure Java is installed, open the OptiFine `.jar` file with Java, extract the mod from the installer to your desktop, and then copy the mod from your desktop to the modpack mod folder. For CurseForge, open the CurseForge app, select your modpack, click on the three dots, choose `Open Folder`, and navigate to the `mods` folder. For ATLauncher, open the ATLauncher app, select your modpack, click `Open Folder,` and navigate to the `mods` folder." },
     },    
     {
       "question": "What are the system requirements for playing on AMPZ Network?",

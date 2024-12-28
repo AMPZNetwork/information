@@ -15,6 +15,7 @@
     {
       "question": "How do I install Optifine?",
       "answer": "Download OptiFine from the [official website](https://optifine.net/downloads), ensure Java is installed, open the OptiFine `.jar` file with Java, extract the mod from the installer to your desktop, and then copy the mod from your desktop to the modpack mod folder. For CurseForge, open the CurseForge app, select your modpack, click on the three dots, choose "Open Folder," and navigate to the "mods" folder. For ATLauncher, open the ATLauncher app, select your modpack, click "Open Folder," and navigate to the "mods" folder." },
+    },    
     {
       "question": "What are the system requirements for playing on AMPZ Network?",
       "answer": "Our modpacks require a minimum of 4GB of RAM unless stated on the project page. For the best experience, we recommend at least 8GB of RAM and a modern graphics card."

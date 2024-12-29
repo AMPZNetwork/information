@@ -1,42 +1,14 @@
-[
-  {
-    "rule": "Offensive Language",
-    "description": "Offensive language is strictly prohibited. Respect for all players is required."
-  },
-  {
-    "rule": "Spamming",
-    "description": "Refrain from spamming the chat with repeated messages or excessive use of CAPS lock."
-  },
-  {
-    "rule": "Advertising",
-    "description": "Advertising other servers or external websites is not allowed, except for links to our domains like https://ampznetwork.com."
-  },
-  {
-    "rule": "Respectfulness",
-    "description": "All players must be treated with respect. Any form of harassment, bullying, or discrimination is unacceptable."
-  },
-  {
-    "rule": "Griefing",
-    "description": "Altering or destroying another player's build without consent is forbidden."
-  },
-  {
-    "rule": "Hacking and Cheating",
-    "description": "The use of mods or hacks to gain an unfair advantage is not permitted."
-  },
-  {
-    "rule": "Chat Content",
-    "description": "Please avoid topics that are sensitive, such as politics or religion, to keep the chat appropriate."
-  },
-  {
-    "rule": "Personal Information",
-    "description": "Do not share personal information to protect your privacy and safety."
-  },
-  {
-    "rule": "Language Use",
-    "description": "English should be used in the global chat to ensure clear communication for all."
-  },
-  {
-    "rule": "Issue Reporting",
-    "description": "Report any problems or inappropriate behavior to a staff member without delay."
-  }
-]
+{
+  "rules": [
+    "Offensive Language: Offensive language is strictly prohibited. Respect for all players is required.",
+    "Spamming: Refrain from spamming the chat with repeated messages or excessive use of CAPS lock.",
+    "Advertising: Advertising other servers or external websites is not allowed, except for links to our domains like https://ampznetwork.com.",
+    "Respectfulness: All players must be treated with respect. Any form of harassment, bullying, or discrimination is unacceptable.",
+    "Griefing: Altering or destroying another player's build without consent is forbidden.",
+    "Hacking and Cheating: The use of mods or hacks to gain an unfair advantage is not permitted.",
+    "Chat Content: Please avoid topics that are sensitive, such as politics or religion, to keep the chat appropriate.",
+    "Personal Information: Do not share personal information to protect your privacy and safety.",
+    "Language Use: English should be used in the global chat to ensure clear communication for all.",
+    "Issue Reporting: Report any problems or inappropriate behavior to a staff member without delay."
+  ]
+}

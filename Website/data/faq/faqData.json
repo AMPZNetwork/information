@@ -78,7 +78,7 @@
     },
     {
       "question": "How can I get the crashlogs /logs from my launcher?",
-      "answer": "Depending on which launcher you are using, the steps to retrieve the logs may vary.<br><br>#### AtLauncher<br>1. Open the ATLauncher.<br>2. Navigate to the instances tab.<br>3. Click the 'Open folder' button for the modpack you are using.<br>4. Open the 'Logs' folder.<br><br>#### CurseForge<br>1. Open the CurseForge launcher.<br>2. Find the modpack you require.<br>3. Right-click it and select 'Open folder' from the drop-down menu.<br>4. Open the 'Logs' folder.<br><br>#### Prisim<br>1. Open the Prisim launcher.<br>2. Navigate to the modpack you are using.<br>3. Click the 'Open folder' button.<br>4. Open the 'Logs' folder."
+      "answer": "Depending on which launcher you are using, the steps to retrieve the logs may vary.<br><br>**AtLauncher**<br>1. Open the ATLauncher.<br>2. Navigate to the instances tab.<br>3. Click the 'Open folder' button for the modpack you are using.<br>4. Open the 'Logs' folder.<br><br>**CurseForge**<br>1. Open the CurseForge launcher.<br>2. Find the modpack you require.<br>3. Right-click it and select 'Open folder' from the drop-down menu.<br>4. Open the 'Logs' folder.<br><br>**Prisim**<br>1. Open the Prisim launcher.<br>2. Navigate to the modpack you are using.<br>3. Click the 'Open folder' button.<br>4. Open the 'Logs' folder."
     }
   ]
 }

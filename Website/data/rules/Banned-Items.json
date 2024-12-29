@@ -1,0 +1,12 @@
+{
+  "rules": [
+    "Mekanism Anchor Upgrades: Known to cause crashes on the Fossilized Server.",
+    "Open Computers Upgrade: Also causes crashes on the Fossilized Server.",
+    "OpenComputers Chunk Loader: Banned for potentially overloading the server by keeping excessive chunks active.",
+    "Securitycraft Projector: Causes server-wide crashes when approached by a user.",
+    "Kill Dart (MineJurassic): Allows the killing of protected mobs, which is unfair to other players.",
+    "Deinonychus DNA (Fossils and Archeology): Causes server crashes due to unoptimized ticking.",
+    "Wub Hammer (Tiny Progressions): Known for ticking issues that may lead to server crashes.",
+    "Malisis Doors Forcefield Item: Cannot be broken by regular players, creating an unfair advantage."
+  ]
+}

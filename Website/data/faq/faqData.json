@@ -77,8 +77,8 @@
       "answer": "Download OptiFine from the [official website](https://optifine.net/downloads), ensure Java is installed, open the **OptiFine.jar** file with Java, extract the mod from the installer to your desktop, and then copy the mod from your desktop to the modpack mod folder.<br><br>For CurseForge, open the CurseForge app, select your modpack, click on the three dots, choose `Open Folder`, and navigate to the `mods` folder.<br><br>For ATLauncher, open the ATLauncher app, select your modpack, click `Open Folder,` and navigate to the `mods` folder."
     },
     {
-      "question": "how dose filters work?",
-      "answer": "this is a test to see how the new filter tag displays"
+      "question": "How can I get the crashlogs /logs from my launcher?",
+      "answer": "Depending on which launcher you are using, the steps to retrieve the logs may vary.<br><br>#### AtLauncher<br>1. Open the ATLauncher.<br>2. Navigate to the instances tab.<br>3. Click the 'Open folder' button for the modpack you are using.<br>4. Open the 'Logs' folder.<br><br>#### CurseForge<br>1. Open the CurseForge launcher.<br>2. Find the modpack you require.<br>3. Right-click it and select 'Open folder' from the drop-down menu.<br>4. Open the 'Logs' folder.<br><br>#### Prisim<br>1. Open the Prisim launcher.<br>2. Navigate to the modpack you are using.<br>3. Click the 'Open folder' button.<br>4. Open the 'Logs' folder."
     }
   ]
 }

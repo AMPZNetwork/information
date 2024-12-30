@@ -1,15 +1,42 @@
 {
   "title": "Banned Items",
-  "items": [
-    "Mekanism Anchor Upgrades: Known to cause crashes on the Fossilized Server.",
-    "Open Computers Upgrade: Also causes crashes on the Fossilized Server.",
-    "OpenComputers Chunk Loader: Banned for potentially overloading the server by keeping excessive chunks active.",
-    "Securitycraft Projector: Causes server-wide crashes when approached by a user.",
-    "Kill Dart (MineJurassic): Allows the killing of protected mobs, which is unfair to other players.",
-    "Deinonychus DNA (Fossils and Archeology): Causes server crashes due to unoptimized ticking.",
-    "Wub Hammer (Tiny Progressions): Known for ticking issues that may lead to server crashes.",
-    "Malisis Doors Forcefield Item: Cannot be broken by regular players, creating an unfair advantage.",
-    "Bewitchment taglock: Poses a security vulnerability on servers."
+  "banned_items": [
+    {
+      "item": "Mekanism Anchor Upgrades",
+      "reason": "Known to cause crashes on the Fossilized Server."
+    },
+    {
+      "item": "Open Computers Upgrade",
+      "reason": "Also causes crashes on the Fossilized Server."
+    },
+    {
+      "item": "OpenComputers Chunk Loader",
+      "reason": "Banned for potentially overloading the server by keeping excessive chunks active."
+    },
+    {
+      "item": "Securitycraft Projector",
+      "reason": "Causes server-wide crashes when approached by a user."
+    },
+    {
+      "item": "Kill Dart (MineJurassic)",
+      "reason": "Allows the killing of protected mobs, which is unfair to other players."
+    },
+    {
+      "item": "Deinonychus DNA (Fossils and Archeology)",
+      "reason": "Causes server crashes due to unoptimized ticking."
+    },
+    {
+      "item": "Wub Hammer (Tiny Progressions)",
+      "reason": "Known for ticking issues that may lead to server crashes."
+    },
+    {
+      "item": "Malisis Doors Forcefield Item",
+      "reason": "Cannot be broken by regular players, creating an unfair advantage."
+    },
+    {
+      "item": "Bewitchment taglock",
+      "reason": "Poses a security vulnerability on servers."
+    }
   ],
   "note": "This list is subject to change as we continue to improve the server environment. Stay updated with the latest rules to ensure a smooth and fair gaming experience for everyone."
 }

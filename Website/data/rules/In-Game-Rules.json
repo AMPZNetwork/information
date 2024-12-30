@@ -1,4 +1,5 @@
 {
+  "title": "Chat Rules",
   "rules": [
     "Offensive Language: Offensive language is strictly prohibited. Respect for all players is required.",
     "Spamming: Refrain from spamming the chat with repeated messages or excessive use of CAPS lock.",
@@ -10,5 +11,6 @@
     "Personal Information: Do not share personal information to protect your privacy and safety.",
     "Language Use: English should be used in the global chat to ensure clear communication for all.",
     "Issue Reporting: Report any problems or inappropriate behavior to a staff member without delay."
-  ]
+  ],
+  "note": "Please be aware that these rules are subject to change, so regularly reviewing them is recommended to stay informed."
 }

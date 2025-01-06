@@ -1,3 +1,3 @@
-We wish you all a Merry Christmas and a Happy New Year!
+We're thrilled to announce that development for the next version of All The Fabric is underway! We invite you to contribute by suggesting mods or datapacks to include. Visit our [suggestions page](https://forums.ampznetwork.com/suggestions) and label your input as `ATFB6 mod name` along with your recommendation. Make sure all mods support the Fabric mod loader.
 
-Don't forget to check our [FAQ](https://ampznetwork.com/faq) for quick answers to any questions you might have about our pack. Please note that our staff may have limited availability during the holidays, and we appreciate your patience and understanding if there are any delays in responses. Rest assured, all pending applications will be processed when we resume in early January.
+Join our community on [Discord](https://discord.ampznetwork.com) today!

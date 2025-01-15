@@ -62,7 +62,7 @@
     },
     {
       "question": "How do I make my Discord nickname match my Minecraft username on AMPZ?",
-      "answer": "To achieve this, link your Minecraft account by clicking the Verify button, once you have made an AMPZ account on our forums. Then run the command that is copied to your clipboard on the official server of All The Forge v10, your Minecraft account will be then verified. To link your Discord account, click on Connect, then you shall be prompted an authorisation dialog. After both your Minecraft and Discord accounts are linked, your Discord account on AMPZ Discord server will be given your Minecraft username as a nickname."
+      "answer": "To link your Minecraft account:<br>1. Create an AMPZ account on our [forums](https://forums.ampznetwork.com).<br>2. Click the **Verify** button to link your Minecraft account.<br>3. Run the command copied to your clipboard on the official server of All The Forge.<br>4. Your Minecraft account will then be verified.<br><br>## To link your Discord account:<br>1. Click on **Connect**.<br>2. You will be prompted with an authorization dialog.<br>3. After linking both your Minecraft and Discord accounts, your Discord account on the AMPZ Discord server will be given your Minecraft username as a nickname."
     },
     {
       "question": "How to add custom mods to modpacks ?",
@@ -83,6 +83,14 @@
     {
       "question": "Will Fossilized be updated to version 1.18.2?",
       "answer": "Absolutely! We plan to upgrade from version 1.12.2 to 1.18.2 sometime after the release of Fossils and Archaeology. However, please note that the official server will be available a bit later, as we will need to rebuild a significant portion of it for the new version."
+    },
+    {
+      "question": "My screen is all black, I can't see anything?",
+      "answer": "If you're using our Fabric packs, this issue is likely caused by Sodium or Iris Shaders not working well with your computer hardware. Removing or disabling these mods should resolve the problem. For our Forge packs, removing the optimization mods (which you can find on the pack project page) should also fix the issue."
+    },
+    {
+      "question": "Is there any kind of Wiki page?",
+      "answer": "As of now, we do not have an official AMPZ Wiki, but it is being considered for the future. If you require support for a specific mod, it's best to perform a Google search to see if there is a wiki for that mod in the meantime."
     }
   ]
 }

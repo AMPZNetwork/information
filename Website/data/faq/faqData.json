@@ -9,10 +9,6 @@
          "answer":"To reset your password, click on the **[Forgot Password](https://forums.ampznetwork.com/forgot_password/)** and follow the instructions to reset your password via email."
       },
       {
-         "question":"My game is crashing since I've added Optifine?",
-         "answer":"Depending on the modpack you’re using, some of our packs include optimization mods like Sodium. For more details, please refer to the modpack project page where it will outline what mods need to be removed in order to get Optifine working. Alternatively, you can remove Optifine, as it is known to cause issues with other mods due to its closed-source nature."
-      },
-      {
          "question":"What are the system requirements for playing on AMPZ Network?",
          "answer":"Our modpacks require a minimum of 4GB of RAM unless stated on the project page. For the best experience, we recommend at least 8GB of RAM and a modern graphics card."
       },
@@ -29,16 +25,8 @@
          "answer":"You can get support by opening a support ticket over on our [Discord](https://discord.ampznetwork.com) server. A member of our staff will assist you as soon as possible."
       },
       {
-         "question":"Changing the server RAM amount?",
-         "answer":"Adjusting the amount of memory (RAM) your server uses is quite simple. Open the `user_jvm_args.txt` file, locate the line that contains `-Xmx4G`, and change the number to reflect the amount of RAM you need. For instance, if you want to allocate 8GB of RAM, you would change `-Xmx4G` to `-Xmx8G`. Please note that this only applies to self-hosted servers. If you are using a hosting provider, you will need to pay to upgrade your server memory. Also, this does not apply to our Fabric server files. For information on adjusting RAM for All The Fabric, please refer to the next paragraph. <br><br>To adjust the amount of RAM your server can use with our Fabric server files, you need to open the `server-setup-config.yaml`. After that, navigate to `maxRam: 3G` and change 3GB to your desired amount."
-      },
-      {
          "question":"Is there a way to view the official server in map form?",
          "answer":"Yes, you can view All The Fabric, All The Forge, and our Vanilla server maps by clicking on any of these links: [All The Forge](https://map.atfg.ampznetwork.com/) [All The Fabric](https://map.atfb.ampznetwork.com/) [Vanilla](https://map.play.ampznetwork.com/)"
-      },
-      {
-         "question":"How to claim land on our modpacks?",
-         "answer":"Depending on which server of ours you are playing they use different methods for example All The Fabric uses a mod called Flan Mod and All The Forge uses Worldguard plugin.<br><br><details><summary>All The Fabric Guide</summary> <iframe src=\"https://www.youtube.com/embed/e-DvnXWqzsY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br><br><details><summary>All The Forge Guide</summary> <iframe src=\"https://www.youtube.com/embed/kAg5T1MpC1Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br>We trust these guides are helpful to you. Should you need further assistance, please don’t hesitate to contact a member of our staff team they are ready and happy to support you.<br><br>The videos featured in our FAQ, unless otherwise noted, utilize copyright-free music. For more information, please see the [licenses](https://incompetech.com/music/royalty-free/licenses/). Special thanks to fyriandweller for providing the videos."
       },
       {
          "question":"I was punished is there a way to appeal?",
@@ -51,14 +39,6 @@
       {
          "question":"How do I make my Discord nickname match my Minecraft username on AMPZ?",
          "answer":"To link your Minecraft account:<br>1. Create an AMPZ account on our [forums](https://forums.ampznetwork.com).<br>2. Click the **Verify** button to link your Minecraft account.<br>3. Run the command copied to your clipboard on the official server of All The Forge.<br>4. Your Minecraft account will then be verified.<br><br>## To link your Discord account:<br>1. Click on **Connect**.<br>2. You will be prompted with an authorization dialog.<br>3. After linking both your Minecraft and Discord accounts, your Discord account on the AMPZ Discord server will be given your Minecraft username as a nickname."
-      },
-      {
-         "question":"I don't see a shaders menu",
-         "answer":"For shaders to work you need to install [Sodium](https://modrinth.com/mod/sodium)/[Embeddium](https://modrinth.com/mod/embeddium) and [Iris](https://modrinth.com/mod/iris)/[Oculus](https://modrinth.com/mod/oculus) depending on if you are running a Fabric or Forge based modpack."
-      },
-      {
-         "question":"How do I install Optifine?",
-         "answer":"Download OptiFine from the [official website](https://optifine.net/downloads), ensure Java is installed, open the **OptiFine.jar** file with Java, extract the mod from the installer to your desktop, and then copy the mod from your desktop to the modpack mod folder.<br><br>For CurseForge, open the CurseForge app, select your modpack, click on the three dots, choose `Open Folder`, and navigate to the `mods` folder.<br><br>For ATLauncher, open the ATLauncher app, select your modpack, click `Open Folder,` and navigate to the `mods` folder."
       },
       {
          "question":"How can I get the crashlogs /logs from my launcher?",

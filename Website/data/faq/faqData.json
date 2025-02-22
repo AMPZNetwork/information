@@ -21,24 +21,8 @@
          "answer":"Each of our packs has a dedicated GitHub repository where you can report issues such as bugs or other problems with our modpacks. You can find them here over on our [Github](https://github.com/orgs/AMPZNetwork/repositories) Repo."
       },
       {
-         "question":"Where do I go for general support?",
-         "answer":"You can get support by opening a support ticket over on our [Discord](https://discord.ampznetwork.com) server. A member of our staff will assist you as soon as possible."
-      },
-      {
          "question":"Is there a way to view the official server in map form?",
          "answer":"Yes, you can view All The Fabric, All The Forge, and our Vanilla server maps by clicking on any of these links: [All The Forge](https://map.atfg.ampznetwork.com/) [All The Fabric](https://map.atfb.ampznetwork.com/) [Vanilla](https://map.play.ampznetwork.com/)"
-      },
-      {
-         "question":"I was punished is there a way to appeal?",
-         "answer":"If you believe you've been unfairly punished on any of our game servers or Discord server, you can appeal the decision by visiting our [appeals page](https://forums.ampznetwork.com/appeal)"
-      },
-      {
-         "question":"Why can’t I see or interact with some channels?",
-         "answer":"This might be happening because you don’t have the @Modpack role. You can obtain this role in the self-roles channel. Alternatively, you may not have accepted our Discord server rules yet. Addressing either of these points should give you access to the other channels."
-      },
-      {
-         "question":"How do I make my Discord nickname match my Minecraft username on AMPZ?",
-         "answer":"To link your Minecraft account:<br>1. Create an AMPZ account on our [forums](https://forums.ampznetwork.com).<br>2. Click the **Verify** button to link your Minecraft account.<br>3. Run the command copied to your clipboard on the official server of All The Forge.<br>4. Your Minecraft account will then be verified.<br><br>## To link your Discord account:<br>1. Click on **Connect**.<br>2. You will be prompted with an authorization dialog.<br>3. After linking both your Minecraft and Discord accounts, your Discord account on the AMPZ Discord server will be given your Minecraft username as a nickname."
       },
       {
          "question":"How can I get the crashlogs /logs from my launcher?",

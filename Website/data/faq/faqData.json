@@ -33,10 +33,6 @@
          "answer":"Adjusting the amount of memory (RAM) your server uses is quite simple. Open the `user_jvm_args.txt` file, locate the line that contains `-Xmx4G`, and change the number to reflect the amount of RAM you need. For instance, if you want to allocate 8GB of RAM, you would change `-Xmx4G` to `-Xmx8G`. Please note that this only applies to self-hosted servers. If you are using a hosting provider, you will need to pay to upgrade your server memory. Also, this does not apply to our Fabric server files. For information on adjusting RAM for All The Fabric, please refer to the next paragraph. <br><br>To adjust the amount of RAM your server can use with our Fabric server files, you need to open the `server-setup-config.yaml`. After that, navigate to `maxRam: 3G` and change 3GB to your desired amount."
       },
       {
-         "question":"How can I remove the graves from the modpack I'm playing?",
-         "answer":"You can remove Ketkets Graves by following the guide below. But before you proceed, please read the next paragraph if you have loaded into a world/server before.<br><br>Before deleting the datapack, if you have already loaded a world, run the command `/function grave_ketket:uninstall` to avoid risking your save.<br><br> 1. Go to the root directory of the modpack. You can access this in-game by navigating to **Options ? Resource Packs**.<br>2. Open the `config` folder.<br>3. Locate the `OpenLoader` folder. If you are using **All The Forge v11** or **All The Fabric v6** (or later), note that this datapack has been removed.<br>4. Open the `data` folder, find the file named `ketkets-graves`, delete it, and then restart the modpack."
-      },
-      {
          "question":"Is there a way to view the official server in map form?",
          "answer":"Yes, you can view All The Fabric, All The Forge, and our Vanilla server maps by clicking on any of these links: [All The Forge](https://map.atfg.ampznetwork.com/) [All The Fabric](https://map.atfb.ampznetwork.com/) [Vanilla](https://map.play.ampznetwork.com/)"
       },

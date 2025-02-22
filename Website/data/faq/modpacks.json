@@ -1,0 +1,12 @@
+{
+  "faqs": [
+      {
+         "question":"Are there any server files for your packs?",
+         "answer":"Yes, you can get the latest server files for the modpack by visiting either our [CurseForge](https://www.curseforge.com/members/teamampz/projects) page. On CurseForge, select the modpack you want, choose the desired version, and look under the \"Additional Files\" tab to find the server files. For Modrinth please see I use Modrinth where can i get the server files? question."
+      },
+      {
+         "question":"I use Modrinth where can i get the server files?",
+         "answer":"For modpack-server-files hosted on Modrinth, navigate to your desired modpack, click on `Versions`, click on (recommended latest) version, scroll all the way down to find the server files"
+    }
+  ]
+}

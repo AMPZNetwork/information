@@ -25,20 +25,12 @@
          "answer":"Each of our packs has a dedicated GitHub repository where you can report issues such as bugs or other problems with our modpacks. You can find them here over on our [Github](https://github.com/orgs/AMPZNetwork/repositories) Repo."
       },
       {
-         "question":"Are there any server files for your packs?",
-         "answer":"Yes, you can get the latest server files for the modpack by visiting either our [CurseForge](https://www.curseforge.com/members/teamampz/projects) page. On CurseForge, select the modpack you want, choose the desired version, and look under the \"Additional Files\" tab to find the server files. For Modrinth please see I use Modrinth where can i get the server files? question."
-      },
-      {
          "question":"Where do I go for general support?",
          "answer":"You can get support by opening a support ticket over on our [Discord](https://discord.ampznetwork.com) server. A member of our staff will assist you as soon as possible."
       },
       {
          "question":"Changing the server RAM amount?",
          "answer":"Adjusting the amount of memory (RAM) your server uses is quite simple. Open the `user_jvm_args.txt` file, locate the line that contains `-Xmx4G`, and change the number to reflect the amount of RAM you need. For instance, if you want to allocate 8GB of RAM, you would change `-Xmx4G` to `-Xmx8G`. Please note that this only applies to self-hosted servers. If you are using a hosting provider, you will need to pay to upgrade your server memory. Also, this does not apply to our Fabric server files. For information on adjusting RAM for All The Fabric, please refer to the next paragraph. <br><br>To adjust the amount of RAM your server can use with our Fabric server files, you need to open the `server-setup-config.yaml`. After that, navigate to `maxRam: 3G` and change 3GB to your desired amount."
-      },
-      {
-         "question":"I use Modrinth where can i get the server files?",
-         "answer":"For modpack-server-files hosted on Modrinth, navigate to your desired modpack, click on `Versions`, click on (recommended latest) version, scroll all the way down to find the server files"
       },
       {
          "question":"How can I remove the graves from the modpack I'm playing?",
@@ -63,10 +55,6 @@
       {
          "question":"How do I make my Discord nickname match my Minecraft username on AMPZ?",
          "answer":"To link your Minecraft account:<br>1. Create an AMPZ account on our [forums](https://forums.ampznetwork.com).<br>2. Click the **Verify** button to link your Minecraft account.<br>3. Run the command copied to your clipboard on the official server of All The Forge.<br>4. Your Minecraft account will then be verified.<br><br>## To link your Discord account:<br>1. Click on **Connect**.<br>2. You will be prompted with an authorization dialog.<br>3. After linking both your Minecraft and Discord accounts, your Discord account on the AMPZ Discord server will be given your Minecraft username as a nickname."
-      },
-      {
-         "question":"How to add custom mods to modpacks ?",
-         "answer":"Depending on your launcher, navigate to the installation of the launcher, then to instances and find your desired instance (modpack), drag the mod(s) .jar which you want to install in the /mods directory"
       },
       {
          "question":"I don't see a shaders menu",

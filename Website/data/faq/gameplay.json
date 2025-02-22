@@ -13,6 +13,26 @@
          "answer":"Depending on your launcher, navigate to the installation of the launcher, then to instances and find your desired instance (modpack), drag the mod(s) .jar which you want to install in the /mods directory"
     },
       {
+         "question":"My game is crashing since I've added Optifine?",
+         "answer":"Depending on the modpack you’re using, some of our packs include optimization mods like Sodium. For more details, please refer to the modpack project page where it will outline what mods need to be removed in order to get Optifine working. Alternatively, you can remove Optifine, as it is known to cause issues with other mods due to its closed-source nature."
+      },
+      {
+         "question":"How to claim land on our modpacks?",
+         "answer":"Depending on which server of ours you are playing they use different methods for example All The Fabric uses a mod called Flan Mod and All The Forge uses Worldguard plugin.<br><br><details><summary>All The Fabric Guide</summary> <iframe src=\"https://www.youtube.com/embed/e-DvnXWqzsY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br><br><details><summary>All The Forge Guide</summary> <iframe src=\"https://www.youtube.com/embed/kAg5T1MpC1Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br>We trust these guides are helpful to you. Should you need further assistance, please don’t hesitate to contact a member of our staff team they are ready and happy to support you.<br><br>The videos featured in our FAQ, unless otherwise noted, utilize copyright-free music. For more information, please see the [licenses](https://incompetech.com/music/royalty-free/licenses/). Special thanks to fyriandweller for providing the videos."
+      },
+      {
+         "question":"How do I install Optifine?",
+         "answer":"Download OptiFine from the [official website](https://optifine.net/downloads), ensure Java is installed, open the **OptiFine.jar** file with Java, extract the mod from the installer to your desktop, and then copy the mod from your desktop to the modpack mod folder.<br><br>For CurseForge, open the CurseForge app, select your modpack, click on the three dots, choose `Open Folder`, and navigate to the `mods` folder.<br><br>For ATLauncher, open the ATLauncher app, select your modpack, click `Open Folder,` and navigate to the `mods` folder."
+      },
+      {
+         "question":"I don't see a shaders menu",
+         "answer":"For shaders to work you need to install [Sodium](https://modrinth.com/mod/sodium)/[Embeddium](https://modrinth.com/mod/embeddium) and [Iris](https://modrinth.com/mod/iris)/[Oculus](https://modrinth.com/mod/oculus) depending on if you are running a Fabric or Forge based modpack."
+      },
+      {
+         "question":"Changing the server RAM amount?",
+         "answer":"Adjusting the amount of memory (RAM) your server uses is quite simple. Open the `user_jvm_args.txt` file, locate the line that contains `-Xmx4G`, and change the number to reflect the amount of RAM you need. For instance, if you want to allocate 8GB of RAM, you would change `-Xmx4G` to `-Xmx8G`. Please note that this only applies to self-hosted servers. If you are using a hosting provider, you will need to pay to upgrade your server memory. Also, this does not apply to our Fabric server files. For information on adjusting RAM for All The Fabric, please refer to the next paragraph. <br><br>To adjust the amount of RAM your server can use with our Fabric server files, you need to open the `server-setup-config.yaml`. After that, navigate to `maxRam: 3G` and change 3GB to your desired amount."
+      },
+      {
          "question":"How can I remove the graves from the modpack I'm playing?",
          "answer":"You can remove Ketkets Graves by following the guide below. But before you proceed, please read the next paragraph if you have loaded into a world/server before.<br><br>Before deleting the datapack, if you have already loaded a world, run the command `/function grave_ketket:uninstall` to avoid risking your save.<br><br> 1. Go to the root directory of the modpack. You can access this in-game by navigating to **Options ? Resource Packs**.<br>2. Open the `config` folder.<br>3. Locate the `OpenLoader` folder. If you are using **All The Forge v11** or **All The Fabric v6** (or later), note that this datapack has been removed.<br>4. Open the `data` folder, find the file named `ketkets-graves`, delete it, and then restart the modpack."
     }

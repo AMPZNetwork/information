@@ -1,96 +1,96 @@
 {
-  "faqs": [
-    {
-      "question": "What is AMPZ Network?",
-      "answer": "AMPZ Network is a **modded Minecraft community** offering a variety of modpacks for players to enjoy."
-    },
-    {
-      "question": "How can I reset my password?",
-      "answer": "To reset your password, click on the **[Forgot Password](https://forums.ampznetwork.com/forgot_password/)** and follow the instructions to reset your password via email."
-    },
-    {
-      "question": "My game is crashing since I've added Optifine?",
-      "answer": "Depending on the modpack you’re using, some of our packs include optimization mods like Sodium. For more details, please refer to the modpack project page where it will outline what mods need to be removed in order to get Optifine working. Alternatively, you can remove Optifine, as it is known to cause issues with other mods due to its closed-source nature."
-    },    
-    {
-      "question": "What are the system requirements for playing on AMPZ Network?",
-      "answer": "Our modpacks require a minimum of 4GB of RAM unless stated on the project page. For the best experience, we recommend at least 8GB of RAM and a modern graphics card."
-    },
-    {
-      "question": "What are the rules of the AMPZ Network?",
-      "answer": "Our community follows strict guidelines to ensure a friendly and respectful environment. You can find the detailed rules on our [forums](https://forums.ampznetwork.com/rules/)."
-    },
-    {
-      "question": "How do I report a bug or issue?",
-      "answer": "Each of our packs has a dedicated GitHub repository where you can report issues such as bugs or other problems with our modpacks. You can find them here over on our [Github](https://github.com/orgs/AMPZNetwork/repositories) Repo."
-    },
-    {
-      "question": "Are there any server files for your packs?",
-      "answer": "Yes, you can get the latest server files for the modpack by visiting either our [CurseForge](https://www.curseforge.com/members/teamampz/projects) page. On CurseForge, select the modpack you want, choose the desired version, and look under the \"Additional Files\" tab to find the server files. For Modrinth please see I use Modrinth where can i get the server files? question."
-    },
-    {
-      "question": "Where do I go for general support?",
-      "answer": "You can get support by opening a support ticket over on our [Discord](https://discord.ampznetwork.com) server. A member of our staff will assist you as soon as possible."
-    },
-    {
-      "question": "Changing the server RAM amount?",
-      "answer": "Adjusting the amount of memory (RAM) your server uses is quite simple. Open the `user_jvm_args.txt` file, locate the line that contains `-Xmx4G`, and change the number to reflect the amount of RAM you need. For instance, if you want to allocate 8GB of RAM, you would change `-Xmx4G` to `-Xmx8G`. Please note that this only applies to self-hosted servers. If you are using a hosting provider, you will need to pay to upgrade your server memory. Also, this does not apply to our Fabric server files. For information on adjusting RAM for All The Fabric, please refer to the next paragraph. <br><br>To adjust the amount of RAM your server can use with our Fabric server files, you need to open the `server-setup-config.yaml`. After that, navigate to `maxRam: 3G` and change 3GB to your desired amount."
-    },
-    {
-      "question": "I use Modrinth where can i get the server files?",
-      "answer": "For modpack-server-files hosted on Modrinth, navigate to your desired modpack, click on `Versions`, click on (recommended latest) version, scroll all the way down to find the server files"
-    },
-    {
-      "question": "How can I remove the graves from the modpack I'm playing?",
-      "answer": "You can remove Ketkets Graves by following the guide below. But before you proceed, please read the next paragraph if you have loaded into a world/server before.<br><br>Before deleting the datapack, if you have already loaded a world, run the command `/function grave_ketket:uninstall` to avoid risking your save.<br><br> 1. Go to the root directory of the modpack. You can access this in-game by navigating to **Options ? Resource Packs**.<br>2. Open the `config` folder.<br>3. Locate the `OpenLoader` folder. If you are using **All The Forge v11** or **All The Fabric v6** (or later), note that this datapack has been removed.<br>4. Open the `data` folder, find the file named `ketkets-graves`, delete it, and then restart the modpack."
-    },
-    {
-      "question": "Is there a way to view the official server in map form?",
-      "answer": "Yes, you can view All The Fabric, All The Forge, and our Vanilla server maps by clicking on any of these links: [All The Forge](https://map.atfg.ampznetwork.com/) [All The Fabric](https://map.atfb.ampznetwork.com/) [Vanilla](https://map.play.ampznetwork.com/)"
-    },
-    {
-      "question": "How to claim land on our modpacks?",
-      "answer": "Depending on which server of ours you are playing they use different methods for example All The Fabric uses a mod called Flan Mod and All The Forge uses Worldguard plugin.<br><br><details><summary>All The Fabric Guide</summary> <iframe src=\"https://www.youtube.com/embed/e-DvnXWqzsY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br><br><details><summary>All The Forge Guide</summary> <iframe src=\"https://www.youtube.com/embed/kAg5T1MpC1Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br>We trust these guides are helpful to you. Should you need further assistance, please don’t hesitate to contact a member of our staff team they are ready and happy to support you.<br><br>The videos featured in our FAQ, unless otherwise noted, utilize copyright-free music. For more information, please see the [licenses](https://incompetech.com/music/royalty-free/licenses/). Special thanks to fyriandweller for providing the videos."
-    },
-    {
-      "question": "I was punished is there a way to appeal?",
-      "answer": "If you believe you've been unfairly punished on any of our game servers or Discord server, you can appeal the decision by visiting our [appeals page](https://forums.ampznetwork.com/appeal)"
-    },
-    {
-      "question": "Why can’t I see or interact with some channels?",
-      "answer": "This might be happening because you don’t have the @Modpack role. You can obtain this role in the self-roles channel. Alternatively, you may not have accepted our Discord server rules yet. Addressing either of these points should give you access to the other channels."
-    },
-    {
-      "question": "How do I make my Discord nickname match my Minecraft username on AMPZ?",
-      "answer": "To link your Minecraft account:<br>1. Create an AMPZ account on our [forums](https://forums.ampznetwork.com).<br>2. Click the **Verify** button to link your Minecraft account.<br>3. Run the command copied to your clipboard on the official server of All The Forge.<br>4. Your Minecraft account will then be verified.<br><br>## To link your Discord account:<br>1. Click on **Connect**.<br>2. You will be prompted with an authorization dialog.<br>3. After linking both your Minecraft and Discord accounts, your Discord account on the AMPZ Discord server will be given your Minecraft username as a nickname."
-    },
-    {
-      "question": "How to add custom mods to modpacks ?",
-      "answer": "Depending on your launcher, navigate to the installation of the launcher, then to instances and find your desired instance (modpack), drag the mod(s) .jar which you want to install in the /mods directory"
-    },
-    {
-      "question": "I don't see a shaders menu",
-      "answer": "For shaders to work you need to install [Sodium](https://modrinth.com/mod/sodium)/[Embeddium](https://modrinth.com/mod/embeddium) and [Iris](https://modrinth.com/mod/iris)/[Oculus](https://modrinth.com/mod/oculus) depending on if you are running a Fabric or Forge based modpack."
-    },
-    {
-      "question": "How do I install Optifine?",
-      "answer": "Download OptiFine from the [official website](https://optifine.net/downloads), ensure Java is installed, open the **OptiFine.jar** file with Java, extract the mod from the installer to your desktop, and then copy the mod from your desktop to the modpack mod folder.<br><br>For CurseForge, open the CurseForge app, select your modpack, click on the three dots, choose `Open Folder`, and navigate to the `mods` folder.<br><br>For ATLauncher, open the ATLauncher app, select your modpack, click `Open Folder,` and navigate to the `mods` folder."
-    },
-    {
-      "question": "How can I get the crashlogs /logs from my launcher?",
-      "answer": "Depending on which launcher you are using, the steps to retrieve the logs may vary.<br><br>**AtLauncher**<br>1. Open the ATLauncher.<br>2. Navigate to the instances tab.<br>3. Click the 'Open folder' button for the modpack you are using.<br>4. Open the either 'Logs' or 'crashlogs' folders.<br><br>**CurseForge**<br>1. Open the CurseForge launcher.<br>2. Find the modpack you require.<br>3. Right-click it and select 'Open folder' from the drop-down menu.<br>4. Open the 'Logs' folder.<br><br>**Prism Launcher**<br>1. Open the Prism launcher.<br>2. Navigate to the modpack you are using.<br>3. Click the 'Open folder' button.<br>4. Open the 'Logs' folder."
-    },
-    {
-      "question": "Will Fossilized be updated to version 1.18.2?",
-      "answer": "Absolutely! We plan to upgrade from version 1.12.2 to 1.18.2 sometime after the release of Fossils and Archaeology. However, please note that the official server will be available a bit later, as we will need to rebuild a significant portion of it for the new version."
-    },
-    {
-      "question": "My screen is all black, I can't see anything?",
-      "answer": "If you're using our Fabric packs, this issue is likely caused by Sodium or Iris Shaders not working well with your computer hardware. Removing or disabling these mods should resolve the problem. For our Forge packs, removing the optimization mods (which you can find on the pack project page) should also fix the issue."
-    },
-    {
-      "question": "Is there any kind of Wiki page?",
-      "answer": "As of now, we do not have an official AMPZ Wiki, but it is being considered for the future. If you require support for a specific mod, it's best to perform a Google search to see if there is a wiki for that mod in the meantime."
-    }
-  ]
+   "faqs":[
+      {
+         "question":"What is AMPZ Network?",
+         "answer":"AMPZ Network is a **modded Minecraft community** offering a variety of modpacks for players to enjoy."
+      },
+      {
+         "question":"How can I reset my password?",
+         "answer":"To reset your password, click on the **[Forgot Password](https://forums.ampznetwork.com/forgot_password/)** and follow the instructions to reset your password via email."
+      },
+      {
+         "question":"My game is crashing since I've added Optifine?",
+         "answer":"Depending on the modpack you’re using, some of our packs include optimization mods like Sodium. For more details, please refer to the modpack project page where it will outline what mods need to be removed in order to get Optifine working. Alternatively, you can remove Optifine, as it is known to cause issues with other mods due to its closed-source nature."
+      },
+      {
+         "question":"What are the system requirements for playing on AMPZ Network?",
+         "answer":"Our modpacks require a minimum of 4GB of RAM unless stated on the project page. For the best experience, we recommend at least 8GB of RAM and a modern graphics card."
+      },
+      {
+         "question":"What are the rules of the AMPZ Network?",
+         "answer":"Our community follows strict guidelines to ensure a friendly and respectful environment. You can find the detailed rules on our [forums](https://forums.ampznetwork.com/rules/)."
+      },
+      {
+         "question":"How do I report a bug or issue?",
+         "answer":"Each of our packs has a dedicated GitHub repository where you can report issues such as bugs or other problems with our modpacks. You can find them here over on our [Github](https://github.com/orgs/AMPZNetwork/repositories) Repo."
+      },
+      {
+         "question":"Are there any server files for your packs?",
+         "answer":"Yes, you can get the latest server files for the modpack by visiting either our [CurseForge](https://www.curseforge.com/members/teamampz/projects) page. On CurseForge, select the modpack you want, choose the desired version, and look under the \"Additional Files\" tab to find the server files. For Modrinth please see I use Modrinth where can i get the server files? question."
+      },
+      {
+         "question":"Where do I go for general support?",
+         "answer":"You can get support by opening a support ticket over on our [Discord](https://discord.ampznetwork.com) server. A member of our staff will assist you as soon as possible."
+      },
+      {
+         "question":"Changing the server RAM amount?",
+         "answer":"Adjusting the amount of memory (RAM) your server uses is quite simple. Open the `user_jvm_args.txt` file, locate the line that contains `-Xmx4G`, and change the number to reflect the amount of RAM you need. For instance, if you want to allocate 8GB of RAM, you would change `-Xmx4G` to `-Xmx8G`. Please note that this only applies to self-hosted servers. If you are using a hosting provider, you will need to pay to upgrade your server memory. Also, this does not apply to our Fabric server files. For information on adjusting RAM for All The Fabric, please refer to the next paragraph. <br><br>To adjust the amount of RAM your server can use with our Fabric server files, you need to open the `server-setup-config.yaml`. After that, navigate to `maxRam: 3G` and change 3GB to your desired amount."
+      },
+      {
+         "question":"I use Modrinth where can i get the server files?",
+         "answer":"For modpack-server-files hosted on Modrinth, navigate to your desired modpack, click on `Versions`, click on (recommended latest) version, scroll all the way down to find the server files"
+      },
+      {
+         "question":"How can I remove the graves from the modpack I'm playing?",
+         "answer":"You can remove Ketkets Graves by following the guide below. But before you proceed, please read the next paragraph if you have loaded into a world/server before.<br><br>Before deleting the datapack, if you have already loaded a world, run the command `/function grave_ketket:uninstall` to avoid risking your save.<br><br> 1. Go to the root directory of the modpack. You can access this in-game by navigating to **Options ? Resource Packs**.<br>2. Open the `config` folder.<br>3. Locate the `OpenLoader` folder. If you are using **All The Forge v11** or **All The Fabric v6** (or later), note that this datapack has been removed.<br>4. Open the `data` folder, find the file named `ketkets-graves`, delete it, and then restart the modpack."
+      },
+      {
+         "question":"Is there a way to view the official server in map form?",
+         "answer":"Yes, you can view All The Fabric, All The Forge, and our Vanilla server maps by clicking on any of these links: [All The Forge](https://map.atfg.ampznetwork.com/) [All The Fabric](https://map.atfb.ampznetwork.com/) [Vanilla](https://map.play.ampznetwork.com/)"
+      },
+      {
+         "question":"How to claim land on our modpacks?",
+         "answer":"Depending on which server of ours you are playing they use different methods for example All The Fabric uses a mod called Flan Mod and All The Forge uses Worldguard plugin.<br><br><details><summary>All The Fabric Guide</summary> <iframe src=\"https://www.youtube.com/embed/e-DvnXWqzsY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br><br><details><summary>All The Forge Guide</summary> <iframe src=\"https://www.youtube.com/embed/kAg5T1MpC1Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></details><br>We trust these guides are helpful to you. Should you need further assistance, please don’t hesitate to contact a member of our staff team they are ready and happy to support you.<br><br>The videos featured in our FAQ, unless otherwise noted, utilize copyright-free music. For more information, please see the [licenses](https://incompetech.com/music/royalty-free/licenses/). Special thanks to fyriandweller for providing the videos."
+      },
+      {
+         "question":"I was punished is there a way to appeal?",
+         "answer":"If you believe you've been unfairly punished on any of our game servers or Discord server, you can appeal the decision by visiting our [appeals page](https://forums.ampznetwork.com/appeal)"
+      },
+      {
+         "question":"Why can’t I see or interact with some channels?",
+         "answer":"This might be happening because you don’t have the @Modpack role. You can obtain this role in the self-roles channel. Alternatively, you may not have accepted our Discord server rules yet. Addressing either of these points should give you access to the other channels."
+      },
+      {
+         "question":"How do I make my Discord nickname match my Minecraft username on AMPZ?",
+         "answer":"To link your Minecraft account:<br>1. Create an AMPZ account on our [forums](https://forums.ampznetwork.com).<br>2. Click the **Verify** button to link your Minecraft account.<br>3. Run the command copied to your clipboard on the official server of All The Forge.<br>4. Your Minecraft account will then be verified.<br><br>## To link your Discord account:<br>1. Click on **Connect**.<br>2. You will be prompted with an authorization dialog.<br>3. After linking both your Minecraft and Discord accounts, your Discord account on the AMPZ Discord server will be given your Minecraft username as a nickname."
+      },
+      {
+         "question":"How to add custom mods to modpacks ?",
+         "answer":"Depending on your launcher, navigate to the installation of the launcher, then to instances and find your desired instance (modpack), drag the mod(s) .jar which you want to install in the /mods directory"
+      },
+      {
+         "question":"I don't see a shaders menu",
+         "answer":"For shaders to work you need to install [Sodium](https://modrinth.com/mod/sodium)/[Embeddium](https://modrinth.com/mod/embeddium) and [Iris](https://modrinth.com/mod/iris)/[Oculus](https://modrinth.com/mod/oculus) depending on if you are running a Fabric or Forge based modpack."
+      },
+      {
+         "question":"How do I install Optifine?",
+         "answer":"Download OptiFine from the [official website](https://optifine.net/downloads), ensure Java is installed, open the **OptiFine.jar** file with Java, extract the mod from the installer to your desktop, and then copy the mod from your desktop to the modpack mod folder.<br><br>For CurseForge, open the CurseForge app, select your modpack, click on the three dots, choose `Open Folder`, and navigate to the `mods` folder.<br><br>For ATLauncher, open the ATLauncher app, select your modpack, click `Open Folder,` and navigate to the `mods` folder."
+      },
+      {
+         "question":"How can I get the crashlogs /logs from my launcher?",
+         "answer":"Depending on which launcher you are using, the steps to retrieve the logs may vary.<br><br>**AtLauncher**<br>1. Open the ATLauncher.<br>2. Navigate to the instances tab.<br>3. Click the 'Open folder' button for the modpack you are using.<br>4. Open the either 'Logs' or 'crashlogs' folders.<br><br>**CurseForge**<br>1. Open the CurseForge launcher.<br>2. Find the modpack you require.<br>3. Right-click it and select 'Open folder' from the drop-down menu.<br>4. Open the 'Logs' folder.<br><br>**Prism Launcher**<br>1. Open the Prism launcher.<br>2. Navigate to the modpack you are using.<br>3. Click the 'Open folder' button.<br>4. Open the 'Logs' folder."
+      },
+      {
+         "question":"Will Fossilized be updated to version 1.18.2?",
+         "answer":"Absolutely! We plan to upgrade from version 1.12.2 to 1.18.2 sometime after the release of Fossils and Archaeology. However, please note that the official server will be available a bit later, as we will need to rebuild a significant portion of it for the new version."
+      },
+      {
+         "question":"My screen is all black, I can't see anything?",
+         "answer":"If you're using our Fabric packs, this issue is likely caused by Sodium or Iris Shaders not working well with your computer hardware. Removing or disabling these mods should resolve the problem. For our Forge packs, removing the optimization mods (which you can find on the pack project page) should also fix the issue."
+      },
+      {
+         "question":"Is there any kind of Wiki page?",
+         "answer":"As of now, we do not have an official AMPZ Wiki, but it is being considered for the future. If you require support for a specific mod, it's best to perform a Google search to see if there is a wiki for that mod in the meantime."
+      }
+   ]
 }

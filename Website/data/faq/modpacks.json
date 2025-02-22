@@ -7,6 +7,10 @@
       {
          "question":"I use Modrinth where can i get the server files?",
          "answer":"For modpack-server-files hosted on Modrinth, navigate to your desired modpack, click on `Versions`, click on (recommended latest) version, scroll all the way down to find the server files"
+    },
+      {
+         "question":"How to add custom mods to modpacks ?",
+         "answer":"Depending on your launcher, navigate to the installation of the launcher, then to instances and find your desired instance (modpack), drag the mod(s) .jar which you want to install in the /mods directory"
     }
   ]
 }

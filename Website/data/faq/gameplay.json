@@ -11,6 +11,10 @@
       {
          "question":"How to add custom mods to modpacks ?",
          "answer":"Depending on your launcher, navigate to the installation of the launcher, then to instances and find your desired instance (modpack), drag the mod(s) .jar which you want to install in the /mods directory"
+    },
+      {
+         "question":"How can I remove the graves from the modpack I'm playing?",
+         "answer":"You can remove Ketkets Graves by following the guide below. But before you proceed, please read the next paragraph if you have loaded into a world/server before.<br><br>Before deleting the datapack, if you have already loaded a world, run the command `/function grave_ketket:uninstall` to avoid risking your save.<br><br> 1. Go to the root directory of the modpack. You can access this in-game by navigating to **Options ? Resource Packs**.<br>2. Open the `config` folder.<br>3. Locate the `OpenLoader` folder. If you are using **All The Forge v11** or **All The Fabric v6** (or later), note that this datapack has been removed.<br>4. Open the `data` folder, find the file named `ketkets-graves`, delete it, and then restart the modpack."
     }
   ]
 }

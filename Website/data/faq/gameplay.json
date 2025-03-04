@@ -26,7 +26,7 @@
       },
       {
          "question":"I don't see a shaders menu",
-         "answer":"For shaders to work you need to install [Sodium](https://modrinth.com/mod/sodium)/[Embeddium](https://modrinth.com/mod/embeddium) and [Iris](https://modrinth.com/mod/iris)/[Oculus](https://modrinth.com/mod/oculus) depending on if you are running a Fabric or Forge based modpack."
+         "answer":"For shaders to work you need to install [Sodium](https://modrinth.com/mod/sodium)/[Embeddium](https://modrinth.com/mod/embeddium) and [Iris](https://modrinth.com/mod/iris)/[Oculus](https://modrinth.com/mod/oculus) depending on if you are running a Fabric or Forge based modpack.<br>Once you habe installed the mods you can find the shaders option ingame by gojng to options the video settings"
       },
       {
          "question":"Changing the server RAM amount?",

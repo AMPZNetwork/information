@@ -35,6 +35,10 @@
       {
          "question":"How can I remove the graves from the modpack I'm playing?",
          "answer":"You can remove Ketkets Graves by following the guide below. But before you proceed, please read the next paragraph if you have loaded into a world/server before.<br><br>Before deleting the datapack, if you have already loaded a world, run the command `/function grave_ketket:uninstall` to avoid risking your save.<br><br> 1. Go to the root directory of the modpack. You can access this in-game by navigating to **Options ? Resource Packs**.<br>2. Open the `config` folder.<br>3. Locate the `OpenLoader` folder. If you are using **All The Forge v11** or **All The Fabric v6** (or later), note that this datapack has been removed.<br>4. Open the `data` folder, find the file named `ketkets-graves`, delete it, and then restart the modpack."
+    },
+    {
+      "question":"How to carry infinite water ?"
+      "answer":"<iframe width="560" height="315" src="https://www.youtube.com/embed/n90uqBgUK-8?si=DEJNdqMolMxATRz3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
     }
   ]
 }

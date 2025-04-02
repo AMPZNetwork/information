@@ -1,3 +1,3 @@
-Effective immediately, support for All the Fabric on ATLauncher has been discontinued. For more details on why this change was made and how to migrate to the Modrinth version, please check out our [blog](https://forums.ampznetwork.com/post/12-all-the-fabric-discontinuing-atlauncher-support/).
+We're thrilled to announce that development for the next version of All The Fabric is underway! We invite you to contribute by suggesting mods or datapacks to include. Visit our [suggestions page](https://forums.ampznetwork.com/suggestions) and label your input as `ATFB6 mod name` along with your recommendation. Make sure all mods support the Fabric mod loader.
 
 Join our community on [Discord](https://discord.ampznetwork.com) today!

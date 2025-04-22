@@ -5,4 +5,4 @@ In the meantime, we **recommend allocating at least 8GB of RAM** to ensure smoot
 **Need help increasing your RAM allocation in your launcher?**  
 Check out our [FAQ page](https://ampznetwork.com/faq) for step-by-step instructions!
 
-Join our community on [Discord](https://discord.ampz
+Join our community on [Discord](https://discord.ampznetwork.com)

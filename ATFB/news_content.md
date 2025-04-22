@@ -1,3 +1,8 @@
-We're thrilled to announce that development for the next version of All The Fabric is underway! We invite you to contribute by suggesting mods or datapacks to include. Visit our [suggestions page](https://forums.ampznetwork.com/suggestions) and label your input as `ATFB6 mod name` along with your recommendation. Make sure all mods support the Fabric mod loader.
+We are aware of reports that **All The Fabric v5** is experiencing high memory (RAM) usage. Our team is actively investigating the issue and working on a fix as soon as possible.
 
-Join our community on [Discord](https://discord.ampznetwork.com) today!
+In the meantime, we **recommend allocating at least 8GB of RAM** to ensure smoother performance until the issue is addressed.
+
+**Need help increasing your RAM allocation in your launcher?**  
+Check out our [FAQ page](https://ampznetwork.com/faq) for step-by-step instructions!
+
+Join our community on [Discord](https://discord.ampz

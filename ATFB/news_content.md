@@ -1,4 +1,4 @@
-We are aware of reports that **All The Fabric v5** is experiencing high memory (RAM) usage. Our team is actively investigating the issue and working on a fix as soon as possible.
+We are aware of reports that All The Fabric v5 is experiencing high memory (RAM) usage. Our team is actively investigating the issue and working on a fix as soon as possible.
 
 In the meantime, we recommend allocating at least 8GB of RAM to ensure smoother performance until the issue is addressed.
 

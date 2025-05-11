@@ -3,59 +3,73 @@
   "banned_items": [
     {
       "item": "Mekanism Anchor Upgrades",
-      "reason": "Causes Fossilized Server crashes."
+      "reason": "Causes Fossilized Server crashes.",
+      "server": "Fossilized"
     },
     {
       "item": "Open Computers Upgrade",
-      "reason": "Causes Fossilized Server crashes."
+      "reason": "Causes Fossilized Server crashes.",
+      "server": "Fossilized"
     },
     {
       "item": "OpenComputers Chunk Loader",
-      "reason": "Potentially overloads the server by keeping excessive chunks active."
+      "reason": "Potentially overloads the server by keeping excessive chunks active.",
+      "server": "Fossilized"
     },
     {
       "item": "Securitycraft Projector",
-      "reason": "Causes server-wide crashes upon user approach."
+      "reason": "Causes server-wide crashes upon user approach.",
+      "server": "Fossilized"
     },
     {
       "item": "Kill Dart (MineJurassic)",
-      "reason": "Allows unfair killing of protected mobs."
+      "reason": "Allows unfair killing of protected mobs.",
+      "server": "Fossilized"
     },
     {
       "item": "Deinonychus DNA (Fossils and Archeology)",
-      "reason": "Causes server crashes due to unoptimized ticking."
+      "reason": "Causes server crashes due to unoptimized ticking.",
+      "server": "Fossilized"
     },
     {
       "item": "Wub Hammer (Tiny Progressions)",
-      "reason": "May lead to server crashes due to ticking issues."
+      "reason": "May lead to server crashes due to ticking issues.",
+      "server": "Fossilized"
     },
     {
       "item": "Malisis Doors Forcefield Item",
-      "reason": "Creates an unfair advantage as it cannot be broken by regular players."
+      "reason": "Creates an unfair advantage as it cannot be broken by regular players.",
+      "server": "Fossilized"
     },
     {
       "item": "Bewitchment taglock",
-      "reason": "Poses a security vulnerability on servers."
+      "reason": "Poses a security vulnerability on servers.",
+      "server": "All The Fabric"
     },
     {
       "item": "Polymorph Potions",
-      "reason": "Reason for banning Polymorph Potions."
+      "reason": "Reason for banning Polymorph Potions.",
+      "server": "All The Fabric"
     },
     {
       "item": "Botany Pots Creative Tier",
-      "reason": "Causes excessive server lag."
+      "reason": "Causes excessive server lag.",
+      "server": "All The Fabric"
     },
     {
       "item": "AE2 Matter Cannon",
-      "reason": "Reason for banning AE2 Matter Cannon."
+      "reason": "Reason for banning AE2 Matter Cannon.",
+      "server": ["Fossilized", "All The Forge", "All The Fabric"]
     },
     {
       "item": "Tech Reborn",
-      "reason": "Reason for banning Tech Reborn items."
+      "reason": "Reason for banning Tech Reborn items.",
+      "server": "All The Fabric"
     },
     {
       "item": "Chunk Loaders",
-      "reason": "Puts strain on the server and causes performance issues for everyone else."
+      "reason": "Puts strain on the server and causes performance issues for everyone else.",
+      "server": ["Fossilized", "All The Forge", "All The Fabric"]
     }
   ],
   "note": "This list is subject to change as we continue to improve the server environment. Stay updated with the latest rules to ensure a smooth and fair gaming experience for everyone."

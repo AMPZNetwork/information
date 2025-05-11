@@ -3,23 +3,23 @@
   "banned_items": [
     {
       "item": "Mekanism Anchor Upgrades",
-      "reason": "Known to cause crashes on the Fossilized Server."
+      "reason": "Causes Fossilized Server crashes."
     },
     {
       "item": "Open Computers Upgrade",
-      "reason": "Also causes crashes on the Fossilized Server."
+      "reason": "Causes Fossilized Server crashes."
     },
     {
       "item": "OpenComputers Chunk Loader",
-      "reason": "Banned for potentially overloading the server by keeping excessive chunks active."
+      "reason": "Potentially overloads the server by keeping excessive chunks active."
     },
     {
       "item": "Securitycraft Projector",
-      "reason": "Causes server-wide crashes when approached by a user."
+      "reason": "Causes server-wide crashes upon user approach."
     },
     {
       "item": "Kill Dart (MineJurassic)",
-      "reason": "Allows the killing of protected mobs, which is unfair to other players."
+      "reason": "Allows unfair killing of protected mobs."
     },
     {
       "item": "Deinonychus DNA (Fossils and Archeology)",
@@ -27,15 +27,35 @@
     },
     {
       "item": "Wub Hammer (Tiny Progressions)",
-      "reason": "Known for ticking issues that may lead to server crashes."
+      "reason": "May lead to server crashes due to ticking issues."
     },
     {
       "item": "Malisis Doors Forcefield Item",
-      "reason": "Cannot be broken by regular players, creating an unfair advantage."
+      "reason": "Creates an unfair advantage as it cannot be broken by regular players."
     },
     {
       "item": "Bewitchment taglock",
       "reason": "Poses a security vulnerability on servers."
+    },
+    {
+      "item": "Polymorph Potions",
+      "reason": "Reason for banning Polymorph Potions."
+    },
+    {
+      "item": "Botany Pots Creative Tier",
+      "reason": "Reason for banning Botany Pots Creative Tier."
+    },
+    {
+      "item": "AE2 Matter Cannon",
+      "reason": "Reason for banning AE2 Matter Cannon."
+    },
+    {
+      "item": "Tech Reborn",
+      "reason": "Reason for banning Tech Reborn items."
+    },
+    {
+      "item": "Chunk Loaders",
+      "reason": "Puts strain on the server and causes performance issues for everyone else."
     }
   ],
   "note": "This list is subject to change as we continue to improve the server environment. Stay updated with the latest rules to ensure a smooth and fair gaming experience for everyone."

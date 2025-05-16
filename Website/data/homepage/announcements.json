@@ -1,3 +1,6 @@
 {
-    "announcement": "Get the latest on Fossilized v3.0: Progress, current work, and future plans. Read it [now](https://blog.ampznetwork.com/post/fossilized-v3.0-progress-report.md)"
+  "announcement": "Get the latest on Fossilized v3.0: Progress, current work, and future plans. Read it [now](https://blog.ampznetwork.com/post/fossilized-v3.0-progress-report.md)",
+  "blacklist": [
+    "https://blog.ampznetwork.com/"
+  ]
 }

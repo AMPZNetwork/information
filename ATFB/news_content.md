@@ -4,7 +4,4 @@ We sincerely apologize for the time it's taking to resolve this issue. We're act
 
 Additionally, we're increasing the minimum RAM requirement for the modpack to 4GB. We apologize for this change, but 3GB is no longer sufficient given all the recent additions to the modpack.
 
-Need help increasing your RAM allocation in your launcher? 
-Check out our [FAQ page](https://ampznetwork.com/faq) for step-by-step instructions!
-
 Join our community on [Discord](https://discord.ampznetwork.com)

@@ -1,6 +1,8 @@
-We are aware of reports that All The Fabric v5 is experiencing high memory (RAM) usage. Our team is actively investigating the issue and working on a fix as soon as possible.
+We have a quick update regarding the high memory usage affecting the latest All The Fabric modpack version.
 
-In the meantime, we recommend allocating at least 8GB of RAM to ensure smoother performance until the issue is addressed.
+We sincerely apologize for the time it's taking to resolve this issue. We're actively working to pinpoint the main problem, and we want to ensure we address it properly before releasing the hotfix. Our goal is to get it right the first time. As a side note, we're also tweaking some mod configuration files to fix some server side issues users have been reporting to us. All these changes, along with the hotfix, will be fully outlined in the upcoming patch notes, which will be pushed out as soon as everything is ready.
+
+Additionally, we're increasing the minimum RAM requirement for the modpack to 4GB. We apologize for this change, but 3GB is no longer sufficient given all the recent additions to the modpack.
 
 Need help increasing your RAM allocation in your launcher? 
 Check out our [FAQ page](https://ampznetwork.com/faq) for step-by-step instructions!

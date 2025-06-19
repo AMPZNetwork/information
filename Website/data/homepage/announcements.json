@@ -1,5 +1,5 @@
 {
-  "announcement": "",
+  "announcement": "We are actively working on fixing the high memory issue affecting All The Fabric v5.13.1",
   "blacklist": [
     ""
   ]

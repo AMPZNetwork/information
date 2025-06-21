@@ -1,6 +1,8 @@
 {
-  "announcement": "We are actively working on fixing the high memory issue affecting All The Fabric v5.13.1",
+  "announcement": "Get the latest on Fossilized v3.0: Progress, current work, and future plans. Read it [now](https://blog.ampznetwork.com/post/fossilized-v3.0-progress-report.md)",
+  "announcement": "",
   "blacklist": [
+    "https://blog.ampznetwork.com/"
     ""
   ]
 }

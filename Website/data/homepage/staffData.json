@@ -19,14 +19,14 @@
     "name": "DarkinLord",
     "role": "Admin"
   },
+  {
+    "uuid": "a85133e3-be39-45ae-b99c-76f06188ec56",
+    "name": "nickneem2009",
+    "role": "Mod"
+  },
     {
     "uuid": "a308d52b-916d-405f-bed9-7808c0240734",
     "name": "HoodedKitty14",
-    "role": "Helper"
-  },
-    {
-    "uuid": "a85133e3-be39-45ae-b99c-76f06188ec56",
-    "name": "nickneem2009",
     "role": "Helper"
   }
 ]

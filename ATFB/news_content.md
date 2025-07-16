@@ -1,4 +1,4 @@
-Patch 5.13.2 is scheduled for release this in the following week bringing:
+Patch 5.13.2 is scheduled for release in the following next week or two bringing:
 
 - Updates to multiple mod configurations  
 - Optimizations to improve performance  

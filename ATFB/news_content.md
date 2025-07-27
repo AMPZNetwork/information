@@ -1,10 +1,5 @@
-Patch 5.14.0 is scheduled for release in the following week, bringing:
+Patch 5.14.0 has arrived, bringing a bunch of changes, fixes, and some mod removals. You can read all the changes [here](https://github.ampznetwork/All-The-Fabric/blob/main/PatchNotes/ATFB5.md).
 
-- Updates to multiple mod configurations
-- Optimizations to improve performance
-- Key bug fixes
-- Few mod removals
+Remember to back up any saves before updating to this patch.
 
-Keep an eye out for the update! And remember to back up any saves before updating to this upcoming patch.
-
-Join our community on [Discord](https://discord.ampznetwork.com)!
+Join our community on **[Discord](https://discord.ampznetwork.com)**!

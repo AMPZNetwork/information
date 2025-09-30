@@ -1,10 +1,11 @@
 All The Forge V11 Launch is HERE
 
-The wait is almost over! We are excited to announce the official release window for All The Forge v11 on Minecraft 1.21.1.
+---
 
-The modpack will launch THIS WEEK, between September 29th and October 3rd, 2025.
+The next chapter starts now.
 
-The next chapter starts now. 
+Available now on CurseForge and ATLauncher
 
-Join the community countdown on [Discord](https://discord.ampznetwork.com)!
+If you want to download the official map for the legacy All The Forge 10 Official Server, you can do so [here](https://cloud.ampznetwork.com/index.php/s/Dx2xwmDGSECKPLR).
 
+Join the community on [Discord](https://discord.ampznetwork.com)!

@@ -1,11 +1,10 @@
-All The Forge V11 Launch is HERE
+All The Forge V11 Upcoming Patch
 
 ---
 
-The next chapter starts now.
+We’re currently working on a new patch to address several issues since launch — including re-adding a grave mod, along with general fixes and improvements.  
 
-Available now on CurseForge and ATLauncher
-
-If you want to download the official map for the legacy All The Forge 10 Official Server, you can do so [here](https://cloud.ampznetwork.com/index.php/s/Dx2xwmDGSECKPLR).
+If you have a new mod idea, please share it with us over on our [forums](https://forums.ampznetwork.com/suggestions/category/2-all-the-forge/).
 
 Join the community on [Discord](https://discord.ampznetwork.com)!
+

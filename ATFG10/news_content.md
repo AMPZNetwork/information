@@ -1,10 +1,11 @@
-All The Forge V11 Upcoming Patch
+All The Forge V11 — Patch 11.0.1
 
 ---
 
-We’re currently working on a new patch to address several issues since launch — including re-adding a grave mod, along with general fixes and improvements.  
+A new update is out on CurseForge and ATLauncher. This patch brings back the requested graves mod along with several updates and fixes.
 
-If you have a new mod idea, please share it with us over on our [forums](https://forums.ampznetwork.com/suggestions/category/2-all-the-forge/).
+See the full changelog [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG11.md)
 
 Join the community on [Discord](https://discord.ampznetwork.com)!
+
 

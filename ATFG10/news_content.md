@@ -1,11 +1,22 @@
-All The Forge V11 — Patch 11.0.1
+AMPZ STORE – BLACK FRIDAY & CYBER MONDAY SALE!
 
 ---
 
-A new update is out on CurseForge and ATLauncher. This patch brings back the requested graves mod along with several updates and fixes.
+It’s that time of year again and we’re going big!
 
-See the full changelog [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG11.md)
+Black Friday
+Get **20% OFF** everything in the store from now until **December 1st**!
+
+Cyber Monday
+From **December 1st to December 2nd ONLY**, enjoy an even bigger **30% OFF** site-wide!
+
+Whether you're upgrading your rank, picking up cosmetics, or grabbing something for a friend, now’s the perfect time.
+
+[Store:](https://store.ampznetwork.com)
+
+Excluding our monthly Emerald rank.
 
 Join the community on [Discord](https://discord.ampznetwork.com)!
+
 
 

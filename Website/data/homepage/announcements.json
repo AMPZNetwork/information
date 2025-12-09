@@ -1,5 +1,4 @@
 {
-  "announcement": "We are aware of an issue with our Official All The Forge server showing some placeholders and are working on a fix",
-  "blacklist": ""
-  ]
+  "announcement": "This is a test announcement.",
+  "blacklist": []
 }

@@ -1,15 +1,19 @@
-## Modpack Support Notice
+## Happy Holidays 
 ---
 
-It has come to our attention that some users have been modifying AMPZ modpacks. You are free to make personal changes, but AMPZ Network cannot provide support for altered packs.
+Merry Christmas and a Happy New Year to all our players. 
 
-This does not apply to tested and approved mods like Essentials. Packs using only approved mods will continue to receive support.
+We hope you have a fantastic holiday season. Thank you for being part of our community this year.
 
-Thank you for understanding.
+> [!IMPORTANT]
+> Support Notice: Our team is currently away for the holidays. 
+> Any support tickets, issues will be looked out when we return in early January. 
+> We appreciate your patience!
 
 ---
 
 Join the community on [Discord](https://discord.ampznetwork.com)!
+
 
 
 

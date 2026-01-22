@@ -7,3 +7,6 @@ Address: `atfg.ampznetwork.com`
 Address: `atfb.ampznetwork.com`
 ### Fossilized
 Address: `fossil.ampznetwork.com`
+
+### Hytale
+Address: `Coming Soon`

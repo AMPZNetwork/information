@@ -1,8 +1,9 @@
-## The Hytale Expansion?
+## One Community, Two Worlds
 ---
 
-We are considering expanding our Network and Modpack to support Hytale once it is out of early access!
+A New Adventure Awaits! We are officially expanding into the world of Hytale. Get ready for a new way to play with the Ampz community.
 
-We want your feedback! Head over to our announcements channel in Discord to vote on this expansion.
+Read more about it [here](https://blog.ampznetwork.com/post/one-community-two-worlds-the-teamampz-hytale-reveal.md)
 
 Join us on [Discord](https://discord.ampznetwork.com)!
+

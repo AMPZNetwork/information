@@ -1,4 +1,4 @@
-# Claiming Land on the official All the Forge 10 Server
+# Claiming Land on the official All the Forge Server
 
 You can claim up to 300k blocks volume on the Server.
 This claiming considers X and Z locations, but also Y (height).

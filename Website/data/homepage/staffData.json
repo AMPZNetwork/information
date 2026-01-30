@@ -2,7 +2,7 @@
   {
     "uuid": "8bd4ca90-5ea4-4070-90f5-c29585519cf6",
     "name": "LabsZero",
-    "role": "Manager","Developer"
+    "role": "Manager, Developer"
   },
   {
     "uuid": "39e07571-9847-4652-a3d0-d252fa3f137f",
@@ -25,6 +25,7 @@
     "role": "Helper"
   }
 ]
+
 
 
 

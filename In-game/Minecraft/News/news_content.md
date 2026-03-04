@@ -1,10 +1,8 @@
-## One Community, Two Worlds
+## Fossilized v3.0 Development Report #2
 ---
 
-A New Adventure Awaits! We are officially expanding into the world of Hytale. Get ready for a new way to play with the Ampz community.
+We have just published a new development report detailing the progress of Fossilized 3.0. This update covers returning favorites, new mod additions, and our new native support for handheld gaming devices.
 
-Read more about it [here](https://blog.ampznetwork.com/post/one-community-two-worlds-the-teamampz-hytale-reveal.md)
+Read the full report [here](https://beta.ampznetwork.com/blog/2026/minecraft/fossilized-v3.0-development-report-2).
 
-Join us on [Discord](https://discord.ampznetwork.com)!
-
-
+Stay updated and join the conversation on [Discord](https://discord.ampznetwork.com)!

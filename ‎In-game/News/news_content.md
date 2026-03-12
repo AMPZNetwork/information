@@ -1,7 +1,8 @@
-## Fossilized v3.0 Dev Report #2
+## All The Forge v11.1.0 Patch Notes
+--- 
 
-We have just published a new development report detailing the progress of Fossilized 3.0 over on our new website. This update covers returning favorites, new mod additions, and our new native support for handheld gaming devices.
+A New update to All The Forge 11 was released it brings a bunch of fixes, mod updates and some quality of life improvments.
 
-Read the full report [here](https://ampznetwork.com/blog/26/03/fossilized-v3.0-development-report-2).
+Read the full patch notes [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG11.md)
 
 Stay updated and join the conversation on [Discord](https://discord.ampznetwork.com)!

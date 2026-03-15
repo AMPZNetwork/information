@@ -1,7 +1,7 @@
-## Fossilized v3.0 Dev Report #2
+## All The Forge v11 Patch Update
 
-We have just published a new development report detailing the progress of Fossilized 3.0 over on our new website. This update covers returning favorites, new mod additions, and our new native support for handheld gaming devices.
+We are aware of a bug with servers rendering generated chests as "none" chests; we are looking into a hotfix to address this as soon as possible. Singleplayer worlds seem unaffected at this time.
 
-Read the full report [here](https://ampznetwork.com/blog/26/03/fossilized-v3.0-development-report-2).
+We recently updated All The Forge to v11.1.0 with several mod updates. We have also added specific mods to help address and fix the timeout issues some users were experiencing.
 
-Stay updated and join the conversation on [Discord](https://discord.ampznetwork.com)!
+Read the full changelog [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG11.md).

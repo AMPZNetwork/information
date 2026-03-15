@@ -8,6 +8,6 @@ Read the full changelog [here](https://github.com/AMPZNetwork/All-The-Forge/blob
 
 ### Known Issues
 
-- Server Chest Rendering: We are aware of a bug with servers rendering generated chests as "none" chests. We are looking into a hotfix to address this as soon as possible. **Singleplayer worlds** seem unaffected at this time.
+- Server Chest Rendering: We are aware of a bug with servers rendering generated chests as "none" chests. We are looking into a hotfix to address this as soon as possible. Singleplayer worlds seem unaffected at this time.
 
 Join our [Discord](https://discord.ampznetwork.com) today.

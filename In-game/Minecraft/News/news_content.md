@@ -1,13 +1,10 @@
-## All The Forge v11 Patch Update
+## All The Forge v11 Patch Fix
 
-We recently updated All The Forge to v11.1.0 with several mod updates. We have also added specific mods to help address and fix the timeout issues some users were experiencing.
+We are aware of the visual bug where generated chests are appearing as "reinforced tuff brick wall and water." 
 
-Read the full changelog [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG11.md).
+The Good News: We have identified the cause! It is a mixin/render conflict introduced in the latest FramedBlocks (10.5.3) update, not world corruption. We are preparing a hotfix right now and expect to have it live later today.
 
----
-
-### Known Issues
-
-- Server Chest Rendering: We are aware of a bug with servers rendering generated chests as "none" chests. We are looking into a hotfix to address this as soon as possible. Singleplayer worlds seem unaffected at this time.
+Thanks for your patience! 
+- TeamAMPZ
 
 Join our [Discord](https://discord.ampznetwork.com) today.

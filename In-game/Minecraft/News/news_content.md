@@ -1,10 +1,13 @@
-## All The Forge v11 Patch Fix
+## All The Forge v11 Hotfix
 
-We are aware of the visual bug where generated chests are appearing as "reinforced tuff brick wall and water." 
+If you are currently running v11.1.0, it is highly recommended to update to v11.1hf. This patch addresses a specific server-side visual bug and a rare stability issue.
 
-The Good News: We have identified the cause! It is a mixin/render conflict introduced in the latest FramedBlocks (10.5.3) update, not world corruption. We are preparing a hotfix right now and expect to have it live later today.
+---
 
-Thanks for your patience! 
-- TeamAMPZ
+### Bug Fixes
+- Lootr: Resolved a server-side rendering issue where pre-generated chests would incorrectly appear as "Reinforced Tuff Brick Walls".
+- General: Fixed a rare crash occurring when attempting to dye a Fridge.
+
+---
 
 Join our [Discord](https://discord.ampznetwork.com) today.

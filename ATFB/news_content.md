@@ -1,3 +1,5 @@
-We're thrilled to announce that development for the next version of All The Fabric is underway! We invite you to contribute by suggesting mods or datapacks to include. Visit our [suggestions page](https://forums.ampznetwork.com/suggestions) and label your input as `ATFB6 mod name` along with your recommendation. Make sure all mods support the Fabric mod loader.
+## Get in the Mix on Discord!
 
-Join our community on [Discord](https://discord.ampznetwork.com) today!
+Are you on Discord? We’ve got a spot waiting for you! Come hang out, swap stories, and vibe with the rest of the community. It’s the best place to catch the latest updates and just generally have a good time.
+
+Hop into the [Discord](https://discord.ampznetwork.com) and say hi.

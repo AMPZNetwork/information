@@ -1,2 +1,2 @@
-# What's New?
+# Get in the Mix on Discord!
 ---

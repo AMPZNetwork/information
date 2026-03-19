@@ -1,13 +1,5 @@
-## All The Forge v11 Hotfix
+## Get in the Mix on Discord!
 
-If you are currently running v11.1.0, it is highly recommended to update to v11.1hf. This patch addresses a specific server-side visual bug and a rare stability issue.
+Are you on Discord? We’ve got a spot waiting for you! Come hang out, swap stories, and vibe with the rest of the community. It’s the best place to catch the latest updates and just generally have a good time.
 
----
-
-### Bug Fixes
-- Lootr: Resolved a server-side rendering issue where pre-generated chests would incorrectly appear as "Reinforced Tuff Brick Walls".
-- General: Fixed a rare crash occurring when attempting to dye a Fridge.
-
----
-
-Join our [Discord](https://discord.ampznetwork.com) today.
+Hop into the [Discord](https://discord.ampznetwork.com) and say hi.

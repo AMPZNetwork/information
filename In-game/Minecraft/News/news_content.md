@@ -1,6 +1,6 @@
 ## All The Forge 11 Patch
 
-We have just pushed a new update to All The Forge 11 marked as v11.2.0. This update fixes the crashes occurring on Intel GPUs using Intel's latest drivers, patches an exploit, and includes general improvements. 
+We have just pushed a new update to All The Forge 11 (v11.2.1hf), which fixes a server-side crash on hybrid environments like Arclight, resolves Intel GPU driver crashes, patches an exploit, and includes general improvements.
 
 You can read the full changes [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG11.md).
 

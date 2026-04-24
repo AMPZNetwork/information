@@ -1,12 +1,8 @@
-## Incoming Patch: All The Forge 11
+## All The Forge 11 Patch
 
-We’re tracking a few issues following the latest release and are working hard on the following fixes:
+We have just pushed a new update to All The Forge 11 marked as v11.2.0. This update fixes the crashes occurring on Intel GPUs using Intel's latest drivers, patches an exploit, and includes general improvements. 
 
-### Known Issues
-- Intel GPU Stability: Reports of crashes and loading failures for players using Intel GPUs/iGPUs on the latest drivers.
-- Harvesting Lag: Performance drops triggered by chopping specific tree types.
-
-We expect to deploy a patch early next week at the latest, though it may arrive sooner if testing goes smoothly. Thanks for your patience while we get these ironed out!
+You can read the full changes [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG11.md).
 
 - TeamAMPZ
 

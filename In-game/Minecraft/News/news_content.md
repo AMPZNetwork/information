@@ -1,12 +1,4 @@
-## All The Forge 11 Patch
-
-We have just pushed a new update to All The Forge 11 (v11.2.1hf), which fixes a server-side crash on hybrid environments like Arclight, resolves Intel GPU driver crashes, patches an exploit, and includes general improvements.
-
-You can read the full changes [here](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG11.md).
-
-- TeamAMPZ
-
----
+## Get in the Mix on Discord!
 
 Are you on Discord? We’ve got a spot waiting for you! Come hang out, swap stories, and vibe with the rest of the community. It’s the best place to catch the latest updates and just generally have a good time.
 

@@ -14,10 +14,20 @@
     "name": "kaleidox",
     "role": "Developer"
   },
+    {
+    "uuid": "c4012abe-e6d9-4852-930e-4885537ca110",
+    "name": "UncleSamsCandy",
+    "role": "Mod"
+  },
   {
     "uuid": "c242c916-8eef-43f0-b0e4-6453597e9ff7",
     "name": "TimT1me",
     "role": "Mod"
+  },
+    {
+    "uuid": "3870c95e-3cf8-44fa-b83f-c4227e91a4e5",
+    "name": "RichfCraft",
+    "role": "Helper"
   }
 ]
 

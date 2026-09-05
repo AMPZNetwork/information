@@ -19,7 +19,12 @@
     "name": "TimT1me",
     "role": "Mod"
   },
-    {
+  {
+    "uuid": "7fc2b992-dbe4-4b39-adae-e381913da522",
+    "name": "Enderplosion",
+    "role": "Helper"
+  },
+  {
     "uuid": "3870c95e-3cf8-44fa-b83f-c4227e91a4e5",
     "name": "RichfCraft",
     "role": "Helper"

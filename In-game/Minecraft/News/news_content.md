@@ -1,6 +1,6 @@
 ## All The Forge v11.3.0
 
-A critical security update for **All The Forge 11** is now live. This release addresses recent NeoForge vulnerabilities (CVSS 6.5) and includes various bug fixes. **We highly recommend updating to v11.3.0 immediately.**
+A critical security update for All The Forge 11 is now live. This release addresses recent NeoForge vulnerabilities (CVSS 6.5) and includes various bug fixes. We highly recommend updating to v11.3.0 immediately.
 
 
 [Read full patch notes](https://github.com/AMPZNetwork/All-The-Forge/blob/main/PatchNotes/ATFG11.md)
